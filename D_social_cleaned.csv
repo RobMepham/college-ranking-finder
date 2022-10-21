@@ -1,0 +1,484 @@
+,Institution,C_ID,% Fraternity,% Sorority,Fraternity,Sorority
+0,Albion College,ABIN,0.35,0.31,1,1
+1,SUNY at Albany,ABL,0.03,0.03,0,0
+2,Adelphi University,ADE,0.09,0.12,1,1
+3,Agnes Scott College,AGN,0,0,0,0
+4,Augustana College,AGST,0.12,0.24,0,0
+5,Alfred University,ALF,0,0,0,0
+6,Allegheny College,ALL,0.21,0.22,1,1
+7,Amherst College,AMH,0,0,0,0
+8,Appalachian State University,APP,0.08,0.12,1,1
+9,Assumption College,ASS,0,0,0,0
+10,University of Alabama at Birmingham,AUAB,0.03,0.05,1,1
+11,Austin College,AUS,0.29,0.32,0,0
+12,Bard College,BARD,0,0,0,0
+13,Baylor University,BAY,0.33,0.34,1,1
+14,Berry College,BER,0,0,0,0
+15,Bowling Green State University,BGSU,0.11,0.06,1,1
+16,Belmont University,BLMT,0.15,0.15,1,1
+17,Beloit College,BLT,0.14,0.18,1,1
+18,Bennington College,BNNG,0,0,0,0
+19,Boston University,BOS,0,0.03,1,1
+20,Bowdoin College,BOWD,0,0,0,0
+21,Bradley University,BRAD,0.04,0.06,1,1
+22,Brandeis University,BRDS,0,0,0,0
+23,Barnard College,BRND,0,0.2,0,1
+24,Brown University,BRO,0.11,0.12,1,1
+25,Bryn Mawr College,BRY,0,0,0,0
+26,Bucknell University,BUC,0.34,0.38,1,1
+27,Butler University,BUT,0.23,0.36,1,1
+28,Canisius College,CAN,0.01,0.01,1,1
+29,Catholic University of America,CAT,0,0,1,1
+30,College of Charleston,CCHN,0.21,0.3,1,1
+31,Centre College,CEN,0.51,0.5,0,0
+32,Chapman University,CHA,0.2,0.27,0,0
+33,University of North Carolina at Charlotte,CHLT,0.07,0.09,1,1
+34,University of Cincinnati,CIN,0.1,0.08,1,1
+35,Colby College,CLBY,0,0,0,0
+36,Colorado College,CLCL,0,0,0,0
+37,Clemson University,CLE,0.08,0.17,0,0
+38,Clark University,CLRK,0,0,0,0
+39,Colorado State University,CLST,0.05,0.06,0,0
+40,Columbia University,CMBU,0.14,0.12,0,0
+41,Claremont McKenna College,CMCK,0,0,0,0
+42,Carnegie Mellon University,CMEL,0.16,0.15,1,1
+43,Connecticut College,CNNC,0,0,0,0
+44,Christopher Newport University,CNWP,0.23,0.27,0,0
+45,Colgate University,COLG,0.21,0.32,1,1
+46,Cornell College,COR,0.13,0.35,1,1
+47,Creighton University,CRE,0.28,0.43,0,0
+48,Clarkson University,CRKS,0.13,0.09,1,1
+49,Carleton College,CRL,0,0,0,0
+50,College of Saint Benedict,CSBN,0,0,1,1
+51,Case Western Reserve University,CWRU,0.18,0.24,1,1
+52,University of Dallas,DAL,0,0,0,0
+53,Dartmouth College,DAR,0.29,0.33,1,1
+54,Davidson College,DAV,0.29,0.51,1,1
+55,University of Dayton,DAY,0.12,0.22,1,1
+56,University of Delaware,DEL,0.18,0.23,1,1
+57,University of Denver,DEN,0.25,0.28,1,1
+58,DePauw University,DEP,0.66,0.57,1,1
+59,Dickinson College,DICK,0.05,0.23,1,1
+60,Denison University,DNSN,0.26,0.42,1,1
+61,Drake University,DRA,0.24,0.28,1,1
+62,Drew University,DRE,0,0,0,0
+63,Duke University,DUK,0.29,0.42,1,1
+64,Earlham College,EAR,0,0,0,0
+65,East Carolina University,ECAR,0.08,0.12,1,1
+66,Eckerd College,ECK,0,0,0,0
+67,Eastern Connecticut State University,ECON,0,0,0,0
+68,Elizabethtown College,ELI,0,0,0,0
+69,Emory University,EMO,0.14,0.13,1,1
+70,Fairfield University,FAI,0,0,0,0
+71,Florida Institute of Technology,FIT,0.02,0.01,1,1
+72,Florida International University,FIU,0.03,0.03,1,1
+73,University of Florida,FL,0.14,0.22,1,1
+74,Florida Southern College,FLO,0.24,0.26,1,1
+75,Florida State University,FLST,0.13,0.22,1,1
+76,Fordham University,FRDM,0,0,0,0
+77,Furman University,FUR,0.3,0.58,1,1
+78,Georgia State University,GAST,0,0,1,1
+79,Gettysburg College,GET,0.27,0.34,1,1
+80,George Mason University,GMAS,0.04,0.05,1,1
+81,SUNY College at Geneseo,GNSO,0.18,0.22,1,1
+82,Gonzaga University,GON,0,0,0,0
+83,Goucher College,GOU,0,0,0,0
+84,Grinnell College,GRI,0,0,0,0
+85,Grove City College,GRO,0.4,0.4,1,1
+86,Georgia Institute of Technology,GTCH,0.22,0.26,1,1
+87,Georgetown College,GTWC,0.25,0.28,1,1
+88,Georgetown University,GTWN,0,0,0,0
+89,Gustavus Adolphus College,GUS,0.13,0.14,1,1
+90,George Washington University,GWAS,0.05,0.09,1,1
+91,Hamilton College,HAM,0.09,0.08,1,0
+92,Hanover College,HAN,0.37,0.36,1,1
+93,Hendrix College,HEN,0,0,0,0
+94,Hillsdale College,HIL,0.22,0.33,1,1
+95,Mount Holyoke College,HLKE,0,0,0,0
+96,Harvey Mudd College,HMUD,0,0,0,0
+97,Hofstra University,HOF,0.06,0.12,1,1
+98,Hope College,HOP,0.17,0.21,1,1
+99,College of the Holy Cross,HRCS,0,0,0,0
+100,Harvard University,HRVD,0,0,0,0
+101,Illinois Institute of Technology,IIT,0.05,0.03,1,1
+102,Illinois State University,ILST,0.13,0.14,1,1
+103,Illinois Wesleyan University,ILWS,0.3,0.32,1,1
+104,Iowa State University,IOW,0.13,0.18,1,1
+105,Ithaca College,ITH,0,0,0,0
+106,John Carroll University,JCRL,0.09,0.21,1,1
+107,Johns Hopkins University,JHOP,0.13,0.26,1,1
+108,James Madison University,JMU,0.03,0.07,1,1
+109,Juniata College,JUN,0,0,0,0
+110,University of Kansas,KAN,0.17,0.24,1,1
+111,Kansas State University,KAST,0,0,1,1
+112,Kenyon College,KENY,0.1,0.08,1,1
+113,Knox College,KNO,0.21,0.16,1,1
+114,Lafayette College,LAF,0.17,0.26,1,1
+115,Lake Forest College,LAKE,0.1,0.11,1,1
+116,La Salle University,LASL,0,0,1,1
+117,Lawrence University,LAW,0.08,0.08,1,1
+118,Loyola University Chicago,LCHI,0.08,0.15,1,1
+119,Lehigh University,LEH,0.25,0.34,1,1
+120,Loyola Marymount University,LMT,0.18,0.24,1,1
+121,University of Louisville,LOU,0.18,0.14,1,1
+122,Lycoming College,LYC,0.11,0.17,1,1
+123,Macalester College,MAC,0,0,0,0
+124,Manhattan College,MANH,0.02,0.02,1,1
+125,Marist College,MAR,0.03,0.03,1,1
+126,Marquette University,MARQ,0.15,0.15,1,1
+127,Massachusetts Institute of Technology,MAS,0.39,0.26,1,1
+128,Montclair State University,MCLR,0,0,1,1
+129,"Cal Poly, Pomona",CPP,0,0,0,0
+130,Morehouse College,MHSE,0.2,0,1,0
+131,University of Miami,MIA,0.16,0.17,1,1
+132,"Cal Poly, San Luis Obispo",CPLY,0.06,0.09,0,0
+133,Michigan State University,MIST,0.11,0.12,1,1
+134,Millsaps College,MLSP,0.51,0.47,1,1
+135,Merrimack College,MRMK,0.06,0.08,1,1
+136,Moravian College,MRVN,0.14,0.21,1,1
+137,Marshall University,MSHL,0.07,0.07,1,1
+138,Milwaukee School of Engineering,MSOE,0.05,0.1,1,1
+139,Messiah College,MSSH,0,0,0,0
+140,Mississippi State University,MSST,0.15,0.18,1,1
+141,Michigan Technological University,MTCH,0.09,0.1,1,1
+142,Montana State University,MTST,0.02,0.02,1,1
+143,Muhlenberg College,MUH,0.1,0.06,1,1
+144,Murray State University,MUR,0.17,0.19,1,1
+145,Northern Arizona University,NAZ,0.08,0.11,1,1
+146,University of Northern Colorado,NCO,0.07,0.08,1,1
+147,University of Notre Dame,ND,0,0,0,0
+148,University of North Dakota,NDU,0.12,0.12,1,1
+149,Northeastern University,NE,0.1,0.18,1,1
+150,University of New Hampshire,NHU,0.12,0.16,1,1
+151,Niagara University,NIA,0,0,1,1
+152,New Jersey Institute of Technology,NJIT,0.05,0.05,1,1
+153,Norwich University,NRCH,0,0,0,0
+154,University of North Texas,NTX,0.01,0.04,1,1
+155,Northwestern University,NW,0.23,0.16,1,1
+156,New York University,NYU,0.03,0.07,1,1
+157,Oakland University,OAK,0.03,0.02,1,1
+158,Oberlin College,OBE,0,0,0,0
+159,Occidental College,OCC,0,0,1,1
+160,California Institute of Technology,CALT,0.02,0.01,1,1
+161,Ohio Wesleyan University,OHWS,0.3,0.27,1,1
+162,University of Oklahoma,OKLA,0.3,0.37,1,1
+163,Oklahoma State University,OKST,0.2,0.25,1,1
+164,University of Oregon,ORE,0.15,0.17,1,1
+165,"California State University, Fresno",FRST,0.04,0.04,1,1
+166,Pepperdine University,PEP,0.14,0.28,1,1
+167,Pitzer College,PIT,0,0,0,0
+168,SUNY College at Plattsburgh,PLAT,0.15,0.15,1,1
+169,"California State University, Fullerton",CFTN,0.01,0.02,1,1
+170,SUNY College at Potsdam,POTS,0.03,0.07,1,1
+171,Presbyterian College,PRE,0.33,0.38,1,1
+172,Princeton University,PRI,0,0,0,0
+173,Providence College,PRO,0,0,0,0
+174,University of Puget Sound,PUGS,0.25,0.23,1,1
+175,Ramapo College of New Jersey,RAM,0.05,0.08,1,1
+176,Reed College,REE,0,0,0,0
+177,Rensselaer Polytechnic Institute,REN,0.16,0.12,1,1
+178,Rhodes College,RHO,0.26,0.38,1,1
+179,University of Rhode Island,RI,0.16,0.16,1,1
+180,University of Richmond,RICH,0.2,0.18,1,1
+181,Ripon College,RIP,0.31,0.27,1,1
+182,Randolph-Macon College,RMAC,0.17,0.28,1,1
+183,Roanoke College,ROA,0.18,0.16,1,1
+184,"California State University, Long Beach",LBSU,0,0,0,0
+185,Roger Williams University,ROG,0,0,0,0
+186,Rollins College,ROL,0.3,0.34,1,1
+187,Sacred Heart University,SAC,0.21,0.44,1,1
+188,Samford University,SAM,0.35,0.61,0,0
+189,University of San Diego,SAND,0.21,0.31,1,1
+190,The University of Texas at Dallas,TEXD,0.02,0.05,1,1
+191,Saint Anselm College,SANS,0,0,0,0
+192,Sarah Lawrence College,SAR,0,0,0,0
+193,Scripps College,SCR,0,0,0,0
+194,University of Scranton,SCRN,0,0,0,0
+195,Santa Clara University,SCU,0,0,0,0
+196,South Dakota State University,SDST,0.06,0.03,1,1
+197,San Diego State University,SDSU,0.08,0.12,1,1
+198,Seattle University,SEA,0,0,0,0
+199,Seton Hall University,SET,0.15,0.22,1,1
+200,Skidmore College,SKI,0,0,0,0
+201,Saint Louis University,SLU,0.11,0.25,0,0
+202,Smith College,SMI,0,0,0,0
+203,Southern Methodist University,SMU,0.26,0.35,0,0
+204,Siena College,SNA,0,0,0,0
+205,University of South Florida,SOFL,0.04,0.06,1,1
+206,Spelman College,SPE,0,0,0,1
+207,Stetson University,STET,0.2,0.23,1,1
+208,Stonehill College,STHL,0,0,0,0
+209,Saint Joseph's University,STJ,0.05,0.25,1,1
+210,Saint Mary's College,STMA,0,0,0,0
+211,St. Mary's College of Maryland,STMD,0,0,0,0
+212,Saint Michael's College,STMI,0,0,0,0
+213,Susquehanna University,SUS,0.19,0.17,1,1
+214,Stevens Institute of Technology,SVIT,0.21,0.31,0,1
+215,Southwestern University,SWU,0.21,0.22,0,0
+216,Syracuse University,SYR,0.23,0.44,1,1
+217,Texas Christian University,TCU,0.42,0.53,1,1
+218,University of Tulsa,TLSA,0.19,0.21,1,1
+219,Transylvania University,TRA,0.45,0.41,1,1
+220,Trinity University,TRNT,0.07,0.13,0,0
+221,Tulane University,TUL,0.22,0.51,1,1
+222,University of Central Florida,UCF,0.03,0.06,1,1
+223,University of Chicago,UCHI,0,0,1,1
+224,University of Georgia,UGA,0.22,0.33,1,1
+225,University of Illinois at Chicago,UIC,0.05,0.05,1,1
+226,University of North Carolina at Chapel Hill,UNC,0.15,0.17,1,1
+227,University of North Carolina at Asheville,UNCA,0.01,0.02,0,0
+228,University of North Carolina at Greensboro,UNCG,0.02,0.01,1,1
+229,University of North Florida,UNF,0,0,1,1
+230,University of Northern Iowa,UNI,0.05,0.07,1,1
+231,University of the Pacific,UPAC,0.07,0.05,1,1
+232,Ursinus College,URSN,0.06,0.13,1,1
+233,University of Southern California,USC,0.11,0.14,1,1
+234,Massachusetts College of Liberal Arts,MCLA,0,0,0,0
+235,Valparaiso University,VALP,0.29,0.32,1,1
+236,Vanderbilt University,VAN,0.27,0.43,1,1
+237,Vassar College,VAS,0,0,0,0
+238,Virginia Commonwealth University,VCU,0.06,0.05,1,1
+239,Villanova University,VIL,0.21,0.26,1,1
+240,University of Vermont,VMT,0.05,0.05,0,0
+241,Wabash College,WAB,0.61,0,1,0
+242,Wagner College,WAG,0.08,0.12,1,1
+243,Wake Forest University,WAK,0.28,0.57,1,1
+244,College of William and Mary,WAM,0.2,0.28,1,1
+245,Warren Wilson College,WAR,0,0,0,0
+246,CUNY Bernard M Baruch College,BRCH,0,0,0,0
+247,Washington State University,WAST,0.21,0.26,1,1
+248,Western Carolina University,WCAR,0,0,1,1
+249,Washington College,WCOL,0.22,0.31,1,1
+250,Wellesley College,WEL,0,0,0,0
+251,Wentworth Institute of Technology,WEN,0,0,0,0
+252,Wesleyan University,WESL,0.04,0.01,1,1
+253,Whitman College,WHI,0.19,0.16,1,1
+254,Widener University,WID,0.14,0.19,1,1
+255,Washington and Lee University,WLEE,0.79,0.7,1,1
+256,Williams College,WLMS,0,0,0,0
+257,Willamette University,WLMT,0.21,0.16,1,1
+258,Western Michigan University,WMU,0.07,0.08,1,1
+259,Wofford College,WOF,0.46,0.42,1,1
+260,Worcester Polytechnic Institute,WOR,0.28,0.36,1,1
+261,Westmont College,WSMT,0,0,0,0
+262,Winthrop University,WTRP,0,0.02,1,1
+263,Whittier College,WTTR,0,0,0,0
+264,Western Washington University,WWAS,0,0,0,0
+265,University of Wyoming,WY,0.06,0.07,1,1
+266,Xavier University,XAV,0,0,0,0
+267,Yale University,YAL,0,0,1,1
+268,American University,AMER,0.09,0.09,1,1
+269,Arizona State University,ARIZ,0.08,0.1,1,1
+270,Auburn University,AUBU,0.24,0.45,1,1
+271,Babson College,BABS,0.04,0.08,1,1
+272,Ball State University,BALL,0.11,0.1,1,1
+273,Bates College,BATE,0,0,0,0
+274,Bentley University,BENT,0.04,0.08,1,1
+275,Berea College,BERE,0,0,0,0
+276,Binghamton University,BING,0.16,0.16,1,1
+277,Birmingham Southern College,BIRM,0.4,0.5,1,1
+278,Bloomsburg University of Pennsylvania,BLOO,0.09,0.11,1,1
+279,Boise State University,BOIS,0.1,0.1,1,1
+280,Boston College,BOST,0,0,0,0
+281,Brigham Young University-Provo,BRIG,0,0,0,0
+282,Bryant University,BRYA,0.07,0.12,1,1
+283,CUNY Brooklyn College,NYBK,0.01,0.01,1,1
+284,CUNY City College,NYCC,0.01,0.01,1,1
+285,CUNY Hunter College,NYHT,0,0,1,1
+286,CUNY Lehman College,NYLH,0,0,1,1
+287,Florida Agricultural and Mechanical University,FAGM,0.62,0,1,1
+288,Florida Atlantic University,FATL,0.06,0.1,1,1
+289,Central Michigan University,CENT,0.08,0.09,0,1
+290,Citadel Military College of South Carolina,CITA,0,0,0,0
+291,Coastal Carolina University,COAS,0.02,0.05,0,0
+292,Colorado School of Mines,COLO,0.13,0.2,1,1
+293,Cooper Union for the Advancement of Science and Art,COOP,0.04,0,0,0
+294,Cornell University,CORN,0.27,0.24,1,1
+295,Florida Gulf Coast University,FGCU,0.07,0.05,1,1
+296,Franklin and Marshall College,FMRS,0.12,0.22,1,1
+297,Franklin W. Olin College of Engineering,FKLO,0,0,0,0
+298,Georgia College,GCOL,0.08,0.11,1,1
+299,Georgia Southern University,GASO,0.1,0.14,1,1
+300,DePaul University,DEPA,0.05,0.08,0,1
+301,Drexel University,DREX,0.11,0.09,1,1
+302,Duquesne University,DUQU,0.16,0.25,1,1
+303,Eastern Kentucky University,EAST,0.01,0.01,1,1
+304,Elon University,ELON,0.2,0.39,1,1
+305,Embry-Riddle Aeronautical University,EMBR,0.1,0.11,1,1
+306,Emerson College,EMER,0.02,0.03,1,1
+307,Endicott College,ENDI,0,0,0,0
+308,Fitchburg State University,FITC,0,0,1,1
+309,Indiana University Bloomington,IND,0.21,0.21,1,1
+310,Indiana University-Purdue University-Indianapolis,IPUI,0.01,0.02,1,1
+311,University of Massachusetts Amherst,MASS,0.08,0.08,1,1
+312,Massachusetts Maritime Academy,MSMR,0,0,0,0
+313,Mercer University,MERC,0.2,0.25,1,1
+314,Mercyhurst University,MHST,0,0,0,0
+315,University of Mississippi,MISS,0.35,0.45,1,1
+316,Hampshire College,HAMP,0,0,0,0
+317,Haverford College,HAVE,0,0,0,0
+318,High Point University,HIGH,0.16,0.43,1,1
+319,Hobart William Smith Colleges,HOBA,0.18,0.02,1,1
+320,Howard University,HOWA,0.05,0.03,1,1
+321,Missouri University of Science and Technology,MUST,0.26,0.28,1,1
+322,New College of Florida,NEWF,0,0,0,0
+323,Kalamazoo College,KALA,0,0,0,0
+324,Kent State University at Kent,KENT,0,0,1,1
+325,Kettering University,KETT,0.08,0.06,1,1
+326,Lewis & Clark College,LEWI,0,0,0,0
+327,Linfield College-McMinnville Campus,LINF,0.27,0.3,1,1
+328,Louisiana State University,LOUI,0.15,0.25,1,1
+329,Loyola University Maryland,LOYO,0,0,0,0
+330,New Mexico Institute of Mining and Technology,NMMT,0,0,0,0
+331,New Mexico State University-Main Campus,NMST,0.02,0.02,1,1
+332,McDaniel College,MCDA,0.14,0.15,1,1
+333,New York Institute of Technology,NYIT,0,0,1,1
+334,Miami University,MIAM,0.1,0.16,1,1
+335,Middlebury College,MIDD,0,0,0,0
+336,Millersville University of Pennsylvania,MILL,0.04,0.04,1,1
+337,North Carolina State University,NCST,0.11,0.15,1,1
+338,Monmouth University,MONM,0.08,0.23,1,1
+339,North Dakota State University-Main Campus,NDST,0.09,0.08,1,1
+340,Northern Michigan University,NMU,0,0,1,1
+341,Ohio University,OHIO,0.04,0.07,1,1
+342,Ohio State University,OHST,0.06,0.1,1,1
+343,Oregon Institute of Technology,ORIT,0,0,1,1
+344,Oregon State University,ORST,0.11,0.15,1,1
+345,University of Pennsylvania,PENN,0.3,0.28,1,1
+346,Pennsylvania State University - University Park,PSUP,0.17,0.2,1,1
+347,Old Dominion University,OLD ,0.05,0.04,1,1
+348,University of Portland,PORT,0,0,0,0
+349,Portland State University,PTST,0.01,0.01,1,1
+350,University of Rochester,ROCH,0.15,0.12,1,1
+351,Pomona College,POMO,0,0,0,0
+352,Rochester Institute of Technology,RIT,0.04,0.02,1,1
+353,Purdue University,PURD,0.14,0.18,1,1
+354,Quinnipiac University,QUIN,0.15,0.18,1,1
+355,Rhode Island School of Design,RHOD,0,0,0,0
+356,Rice University,RICE,0,0,0,0
+357,Rutgers University-Camden,RUTC,0,0,1,1
+358,Rose-Hulman Institute of Technology,ROSE,0.33,0.36,1,1
+359,Rowan University,ROWA,0.04,0.04,1,1
+360,Rutgers University-New Brunswick,RUTB,0,0,1,1
+361,Rutgers University-Newark,RUTN,0,0,1,1
+362,University of San Francisco,SANF,0.05,0.1,1,1
+363,Saint Mary's College of California,SMCA,0,0,0,0
+364,San Francisco State University,SFST,0.01,0.02,0,0
+365,Salem State University,SALE,0,0,1,1
+366,Salisbury University,SALI,0.11,0.07,1,1
+367,Salve Regina University,SALV,0,0,0,0
+368,Sam Houston State University,SAM ,0.06,0.05,1,1
+369,San Jose State University,SJST,0,0,1,1
+370,St. John's College (MD),STJM,0,0,0,0
+371,Simmons University,SIMM,0,0,0,0
+372,Soka University of America,SOKA,0,0,0,0
+373,Sonoma State University,SONO,0.1,0.1,1,1
+374,Southern Connecticut State University,SOUT,0.01,0.03,1,1
+375,St Bonaventure University,ST B,0,0,0,0
+376,St John's University-New York,ST J,0.13,0.17,1,1
+377,St Lawrence University,ST L,0,0,0,0
+378,St Olaf College,ST O,0,0,0,0
+379,Saint Johns University,STJN,0,0,0,0
+380,SUNY at Fredonia,FRDN,0.01,0.01,1,1
+381,Stanford University,STAN,0.19,0.25,1,1
+382,State University of New York at New Paltz,STAT,0.05,0.05,0,0
+383,Stockton University,STOC,0.09,0.1,1,1
+384,Stony Brook University,STON,0.03,0.03,1,1
+385,Suffolk University,SUFF,0.03,0.02,1,1
+386,SUNY at Purchase College,PRCH,0,0,0,0
+387,SUNY College at Brockport,BKPT,0.01,0.02,1,1
+388,SUNY College at Oswego,OSWG,0.07,0.06,1,1
+389,SUNY College of Environmental Science and Forestry,NYES,0.02,0.02,1,1
+390,SUNY Cortland,CTRL,0,0,1,1
+391,SUNY Oneonta,ONTA,0,0,1,1
+392,Texas A & M University-College Station,TAM,0.06,0.15,1,1
+393,Swarthmore College,SWAR,0,0,0,0
+394,Temple University,TEMP,0.04,0.07,1,1
+395,Tennessee Technological University,TENN,0.08,0.09,1,1
+396,Texas State University,TXST,0.05,0.05,1,1
+397,The College of New Jersey,UNJ,0.21,0.21,1,1
+398,The College of Wooster,WOOS,0.13,0.2,0,0
+399,The University of Montana,MTNA,0.06,0.06,1,1
+400,The University of Tennessee-Chattanooga,CHAT,0.12,0.17,1,1
+401,The University of Tennessee-Knoxville,UTK,0.05,0.14,1,1
+402,St. John's College (NM),SJNM,0.05,0.09,1,1
+403,The University of Texas at Austin,TEX,0.12,0.16,1,1
+404,University of Utah,UTAH,0.06,0.08,1,1
+405,The University of the South,SOTH,0.57,0.72,1,1
+406,United States Air Force Academy,AF,0,0,0,0
+407,Towson University,TOWS,0.08,0.09,1,1
+408,Trinity College,TRIN,0.29,0.17,1,1
+409,Truman State University,TRUM,0.22,0.21,1,1
+410,Tufts University,TUFT,0.1,0.15,1,1
+411,Union College,UNIO,0.21,0.37,1,1
+412,United States Coast Guard Academy,CGRD,0,0,0,0
+413,United States Merchant Marine Academy,MMAR,0,0,0,0
+414,United States Military Academy,ARMY,0,0,0,0
+415,United States Naval Academy,NAVY,0,0,0,0
+416,University at Buffalo,BUF,0.01,0.02,1,1
+417,University of Akron Main Campus,AKR,0.04,0.04,1,1
+418,University of Alabama,ALA,0.27,0.4,1,1
+419,University of Arizona,AZ,0.09,0.17,1,1
+420,University of Arkansas,ARK,0.25,0.38,1,1
+421,"University of California, Berkeley",CAL,0.01,0.07,1,1
+422,"University of California, Davis",UCDV,0,0,1,1
+423,"University of California, Irvine",UCIV,0.08,0.09,1,1
+424,"University of California, Los Angeles",UCLA,0.11,0.13,1,1
+425,"University of California, Merced",MRCD,0.08,0.08,1,1
+426,"University of California, Riverside",UCRS,0.04,0.06,1,1
+427,"University of California, San Diego",UCSD,0.08,0.08,1,1
+428,"University of California, Santa Barbara",UCSB,0.1,0.07,1,1
+429,"University of California, Santa Cruz",SCRZ,0.03,0.05,1,1
+430,University of Colorado Boulder,COL,0.1,0.22,1,1
+431,University of Connecticut,CONN,0.1,0.12,1,1
+432,University of Houston,HOU,0.02,0.04,1,1
+433,University of Idaho,ID,0.22,0.25,1,1
+434,University of Illinois at Urbana-Champaign,UIUC,0.21,0.27,1,1
+435,University of Iowa,IOWA,0.13,0.17,1,1
+436,University of Kentucky,UK,0.21,0.33,1,1
+437,University of Louisiana at Lafayette,LA,0.09,0.12,1,1
+438,University of Maine,ME,0.16,0.16,1,1
+439,University of Mary Washington,MWSH,0,0,0,0
+440,"University of Maryland, Baltimore County",UMBC,0.03,0.05,1,1
+441,"University of Maryland, College Park",MD,0.14,0.19,1,1
+442,The University of Texas at Arlington,UTA,0.05,0.03,1,1
+443,University of Massachusetts Boston,MSBO,0,0,0,0
+444,University of Massachusetts Lowell,MSLW,0,0,1,1
+445,University of Memphis,MEM,0,0,1,1
+446,University of Michigan,MICH,0.08,0.17,1,1
+447,University of Michigan-Dearborn,MIDB,0,0,1,1
+448,University of Minnesota-Duluth,MNDT,0,0,1,1
+449,University of Minnesota-Morris,MNMO,0,0,0,0
+450,University of Minnesota-Twin Cities,MIN,0.09,0.09,1,1
+451,University of Missouri-Columbia,MIZ,0.24,0.3,1,1
+452,University of Nebraska-Lincoln,NEB,0.2,0.27,1,1
+453,University of Nevada-Las Vegas,UNLV,0.04,0.04,1,1
+454,University of Nevada-Reno,RENO,0.08,0.07,1,1
+455,University of New Mexico,UNM,0.03,0.03,1,1
+456,University of North Carolina Wilmington,UNCW,0.11,0.09,1,1
+457,University of North Georgia,UNG,0.04,0.05,1,1
+458,University of Pittsburgh,PITT,0.09,0.13,1,1
+459,University of Redlands,RDLD,0,0,0,0
+460,University of South Carolina,SCAR,0.23,0.32,1,1
+461,University of South Dakota,SDAK,0,0,1,1
+462,University of St Thomas,STMN,0,0,0,0
+463,University of Tampa,TMPA,0.02,0.05,1,1
+464,University of Toledo,TOL,0,0,1,1
+465,University of Virginia-Main Campus,UVA,0.31,0.31,1,1
+466,University of Washington-Bothell Campus,WSBT,0.13,0.15,1,1
+467,University of Wisconsin-Eau Claire,UWEC,0,0,1,1
+468,University of Wisconsin-La Crosse,UWLC,0,0,1,1
+469,University of Wisconsin-Madison,WISC,0.09,0.08,1,1
+470,Virginia Military Institute,VMI,0,0,0,0
+471,Virginia Polytechnic Institute and State University,VAPT,0.13,0.19,1,1
+472,University of Washington,WASH,0,0,1,1
+473,Washington & Jefferson College,WSJF,0.29,0.33,1,1
+474,Washington University in St. Louis,WSHU,0.19,0.1,1,1
+475,Wayne State University,WAYN,0,0,1,1
+476,West Chester University of Pennsylvania,WCPA,0.13,0.13,1,1
+477,West Virginia University,WVU,0.12,0.12,1,1
+478,Wheaton College (IL),WHEA,0,0,0,0
+479,Wheaton College (MA),WEAM,0,0,0,0
+480,Whitworth University,WHIT,0,0,0,0
+481,Wichita State University,WICH,0.08,0.08,1,1
+482,Yeshiva University,YESH,0,0,0,0

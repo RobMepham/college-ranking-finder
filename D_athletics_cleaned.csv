@@ -1,0 +1,119 @@
+,C_ID,College,Stadium,Capacity
+0,ALA,Alabama,Bryant–Denny Stadium,0.9300749993029804
+1,AUB,Auburn University-Main Campus,Jordan-Hare Stadium,0.8127340823970037
+2,BAY,Baylor University,McLane Stadium,0.4195128298064144
+3,FRST,California State University at Fresno,Bulldog Stadium,0.3785001998122694
+4,CLST,Colorado State University,Canvas Stadium,0.38103735095398744
+5,FLST,Florida State University,Bobby Bowden Field at Doak Campbell Stadium,0.7393983327292497
+6,GTCH,Georgia Institute of Technology,Bobby Dodd Stadium,0.5111476659138856
+7,HRVD,Harvard University,Harvard Stadium,0.28180964860921365
+8,IND,Indiana University at Bloomington,Memorial Stadium,0.48908467393425714
+9,KAST,Kansas State University,Bill Snyder Family Football Stadium,0.4646796962853505
+10,LSU,Louisiana State University at Baton Rouge,Tiger Stadium,0.950929824072267
+11,LATC,Louisiana Tech University,Joe Aillet Stadium,0.2654436297060436
+12,MSHL,Marshall University,Joan C. Edwards Stadium,0.3552662149980019
+13,MIST,Michigan State University,Spartan Stadium,0.6970660123976543
+14,MSST,Mississippi State University,Davis Wade Stadium,0.5700411706210908
+15,NCST,North Carolina State University at Raleigh,Carter–Finley Stadium,0.5390284476910066
+16,NIU,Northern Illinois University,Huskie Stadium,0.2880828245090659
+17,NW,Northwestern University,Ryan Field,0.4380070817185714
+18,OKST,Oklahoma State University,Boone Pickens Stadium,0.5158781052220704
+19,SMU,Southern Methodist University,Gerald J. Ford Stadium,0.29739500562262433
+20,SYR,Syracuse University,Carrier Dome,0.4559158372134088
+21,TAMU,Texas A&M Univ. at College Station,Kyle Field,0.9547587847696583
+22,TCU,Texas Christian University,Amon G. Carter Stadium,0.41821172665681544
+23,TUL,Tulane University,Benson Field at Yulman Stadium,0.27880781777121033
+24,ARK,University of Arkansas at Fayetteville,Donald W. Reynolds Razorback Stadium,0.7082833802659827
+25,CAL,University of California at Berkeley,California Memorial Stadium,0.5805429317571398
+26,UCF,University of Central Florida,FBC Mortgage Stadium,0.41083261307980407
+27,CIN,University of Cincinnati,Paycor Stadium,0.6088698060426948
+28,CONN,University of Connecticut at Storrs,Pratt & Whitney Stadium at Rentschler Field,0.3968736350033922
+29,FL,University of Florida,Ben Hill Griffin Stadium,0.8229291549335044
+30,UGA,University of Georgia,Sanford Stadium,0.8619436622336224
+31,HAW,University of Hawaii at Manoa,Aloha Stadium,0.4646796962853505
+32,UIUC,University of Illinois - Urbana,Memorial Stadium,0.5638423434726443
+33,KAN,University of Kansas,David Booth Kansas Memorial Stadium,0.43896432189291923
+34,LOU,University of Louisville,Cardinal Stadium,0.5669092294681276
+35,MD,University of Maryland at College Park,Capital One Field at Maryland Stadium,0.48142675253947453
+36,MASS,University of Massachusetts at Amherst,Gillette Stadium,0.6122433806377264
+37,MIA,University of Miami,Hard Rock Stadium,0.6019181977862659
+38,MICH,University of Michigan at Ann Arbor,Michigan Stadium,1.0
+39,MIN,University of Minnesota Twin Cities,Huntington Bank Stadium,0.47216103939554466
+40,MISS,University of Mississippi,Vaught–Hemingway Stadium,0.5951431678144256
+41,MIZ,University of Missouri at Columbia,Faurot Field,0.572671257702066
+42,NEB,University of Nebraska at Lincoln,Memorial Stadium,0.7942119497030696
+43,UNC,University of North Carolina at Chapel Hill,Kenan Memorial Stadium,0.469326493248204
+44,NTX,University of North Texas,Apogee Stadium,0.2867073726080613
+45,ND,University of Notre Dame,Notre Dame Stadium,0.7213873477012296
+46,OKLA,University of Oklahoma,Gaylord Family Oklahoma Memorial Stadium,0.7446585068912
+47,ORE,University of Oregon,Autzen Stadium,0.5018540719881786
+48,PENN,University of Pennsylvania,Franklin Field,0.4921701471175918
+49,PITT,University of Pittsburgh-Main Campus,Heinz Field,0.6356818245183595
+50,SCAR,University of South Carolina at Columbia,Williams-Brice Stadium,0.7208018512839101
+51,SOFL,University of South Florida,Raymond James Stadium,0.6098270462170426
+52,USC,University of Southern California,Los Angeles Memorial Coliseum,0.720262822836219
+53,SOMS,University of Southern Mississippi,M. M. Roberts Stadium,0.3345693813254524
+54,UTK,University of Tennessee at Knoxville,Neyland Stadium,0.9521751656583117
+55,TEX,University of Texas at Austin,Darrell K Royal–Texas Memorial Stadium,0.9304653302478602
+56,UTSA,University of Texas at San Antonio,Alamodome,0.5947900112452487
+57,TLSA,University of Tulsa,Skelly Field at H. A. Chapman Stadium,0.27880781777121033
+58,UTAH,University of Utah,Rice-Eccles Stadium,0.47809964591407145
+59,UVA,University of Virginia,Scott Stadium,0.5715560264309811
+60,WASH,University of Washington,Husky Stadium,0.6513229430953243
+61,WISC,University of Wisconsin at Madison,Camp Randall Stadium,0.7464707577067128
+62,VT,Virginia Tech,Lane Stadium,0.6099571565320024
+63,WAST,Washington State University,Martin Stadium,0.3062425070398974
+64,WMU,Western Michigan University,Waldo Stadium,0.279737177163781
+65,NMST,New Mexico State University,Aggie Memorial Stadium,0.2819955204877278
+66,BST,Boise State University,Albertsons Stadium,0.338166002174701
+67,UNLV,University of Nevada - Las Vegas,Allegiant Stadium,0.6040836051709556
+68,BCU,Boston College,Alumni Stadium,0.41356492969396197
+69,AZ,Univeristy of Arizona,Arizona Stadium,0.4719472867352534
+70,PSU,Penn State University,Beaver Stadium,0.9904368918504475
+71,LA,Louisiana,Cajun Field,0.34293361585858867
+72,SJST,San Jose State,CEFCU Stadium,0.2830456966013327
+73,AKST,Arkansas State,Centennial Bank Stadium,0.28776684231559185
+74,WCHT,Wichita State,Cessna Stadium,0.27880781777121033
+75,KENT,Kent State,Dix Stadium,0.28364048661257796
+76,ECU,East Carolina,Dowdy–Ficklen Stadium,0.4739732902110575
+77,AF,Air Force,Falcon Stadium,0.43393648757911174
+78,FATL,Florida Atlantic,FAU Stadium,0.27880781777121033
+79,COL,Colorado,Folsom Field,0.4663804239737549
+80,CLEM,Clemson,Frank Howard Field at Clemson Memorial Stadium,0.7574279049451214
+81,AKR,Akron,InfoCision Stadium–Summa Field,0.27880781777121033
+82,IAST,Iowa State,Jack Trice Stadium,0.5715560264309811
+83,TXST,Texas State,Jim Wacker Field at Bobcat Stadium,0.27880781777121033
+84,MTSU,Middle Tennessee State,"Johnny ""Red"" Floyd Stadium",0.28810141169691733
+85,TXTC,Texas Tech,Jones AT&T Stadium,0.5618349271846916
+86,LAMO,Louisiana Monroe,JPS Field at Malone Stadium,0.2827761823774872
+87,CMU,Central Michigan,Kelly/Shorts Stadium,0.2811776842222656
+88,IOWA,Iowa,Kinnick Stadium,0.6559883272460293
+89,UK,Kentucky,Kroger Field,0.5669092294681276
+90,SAL,South Alabama,Ladd–Peebles Stadium,0.37774741870428713
+91,BYU,Brigham Young,LaVell Edwards Stadium,0.5898644064646239
+92,UAB,UAB,Legion Field,0.6653655635170677
+93,TMPL,Temple,Lincoln Financial Field,0.6486556816386465
+94,NEV,Nevada,Mackay Stadium,0.2509270359940893
+95,ARMY,Army,Michie Stadium,0.3717437570282804
+96,JKST,Jackson State,Mississippi Veterans Memorial Stadium,0.5621880837538684
+97,WVU,West Virginia,Mountaineer Field at Milan Puskar Stadium,0.5576156355424207
+98,NAVY,Navy,Navy–Marine Corps Memorial Stadium,0.31598219347403833
+99,TNST,Tennessee State,Nissan Stadium,0.6425869648051598
+100,OHST,Ohio State,Ohio Stadium,0.9551955836841665
+101,ORST,Oregon State,Reser Stadium,0.245415934796145
+102,RICE,Rice,Rice Stadium,0.4367989145082295
+103,UCLA,UCLA,Rose Bowl,0.8230871460302414
+104,PUR,Purdue,Ross–Ade Stadium,0.5319281419317664
+105,EMU,Eastern Michigan,Rynearson Stadium,0.2806665365563517
+106,RUT,Rutgers,SHI Stadium,0.4874861757790355
+107,STAN,Stanford,Stanford Stadium,0.4646796962853505
+108,UTEP,Texas-El Paso,Sun Bowl Stadium,0.478620087173911
+109,AZST,Arizona State,Sun Devil Stadium,0.5263333983884908
+110,WAKE,Wake Forest,Truist Field at Wake Forest,0.2927482086597708
+111,UNM,New Mexico,University Stadium,0.36453192814193175
+112,VBLT,Vanderbilt,Vanderbilt Stadium,0.36979210230388193
+113,TROY,Troy,Veterans Memorial Stadium,0.2825438425293445
+114,DUKE,Duke,Wallace Wade Stadium,0.3717809314039832
+115,WYO,Wyoming,War Memorial Stadium,0.28048995827176326
+116,NFST,Norfolk State,"William ""Dick"" Price Stadium",0.27880781777121033
+117,YALE,Yale,Yale Bowl,0.5710541723589929

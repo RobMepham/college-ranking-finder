@@ -1,0 +1,135 @@
+,C_ID,College,Website,Pred_Pts,Unscaled_Rank,City,State,Scaled_Rank
+0,UIUC,University of Illinois - Urbana,www.illinois.edu,523.2625770492032,11,Champaign,IL,1
+1,UGA,University of Georgia,www.uga.edu,484.8909343303437,15,Athens,GA,2
+2,IND,Indiana University at Bloomington,www.indiana.edu,465.41622566709975,20,Bloomington,IN,3
+3,FLST,Florida State University,www.fsu.edu,405.777348270409,27,Tallahassee,FL,4
+4,UTK,University of Tennessee at Knoxville,www.utk.edu,405.4226765903478,28,Knoxville,TN,5
+5,VT,Virginia Tech,www.vt.edu,394.2631954736444,33,Blacksburg,VA,6
+6,SCAR,University of South Carolina at Columbia,www.sc.edu,369.91520765051314,40,Columbia,SC,7
+7,OHST,Ohio State University,www.osu.edu,356.6809922372446,45,Columbus,OH,8
+8,LOU,University of Louisville,www.louisville.edu,323.1058402799987,57,Louisville,KY,9
+9,PURD,Purdue University,www.purdue.edu,316.59488410462893,63,West Lafayette,IN,10
+10,MUST,Missouri University of Science and Technology,www.mst.edu,310.57345829500093,67,Rolla,MO,11
+11,VAN,Vanderbilt University,www.vanderbilt.edu,307.9787171661893,69,Nashville,TN,12
+12,CIN,University of Cincinnati,www.uc.edu,305.8138383914707,71,Cincinnati,OH,13
+13,MIAM,Miami University (OH),www.miamioh.edu,303.0606968052473,74,Oxford,OH,14
+14,WSHU,Washington University in St. Louis,www.wustl.edu,293.4219927967359,77,St. Louis,MO,15
+15,SLU,Saint Louis University,www.slu.edu,291.8548250915806,81,St. Louis,MO,16
+16,ROSE,Rose-Hulman Institute of Technology,www.rose-hulman.edu,289.9939297094794,84,Terre Haute,IN,17
+17,ILST,Illinois State University,www.illinoisstate.edu,281.298524601336,90,Normal,IL,18
+18,AUBU,Auburn University,www.auburn.edu,271.4860384205658,97,Auburn,AL,19
+19,GAST,Georgia State University,www.gsu.edu,267.94902582426744,99,Atlanta,GA,20
+20,OHIO,Ohio University,www.ohio.edu,266.3238377005422,102,Athens,OH,21
+21,HTVL,University of Alabama in Huntsville,www.uah.edu,264.2882535093033,106,Huntsville,AL,22
+22,WAK,Wake Forest University,www.wfu.edu,255.88463265224357,112,Winston-Salem,NC,23
+23,EMO,Emory University,www.emory.edu,254.33119200688776,114,Atlanta,GA,24
+24,CLE,Clemson University,www.clemson.edu,250.29905875968933,120,Clemson,SC,25
+25,CHLT,University of North Carolina at Charlotte,www.uncc.edu,250.228439794299,121,Charlotte,NC,26
+26,GTCH,Georgia Institute of Technology,www.gatech.edu,237.7499511475337,135,Atlanta,GA,27
+27,CGRD,United States Coast Guard Academy,www.uscga.edu,235.55747822876134,138,New London,CT,28
+28,UK,University of Kentucky,www.uky.edu,221.84699221336479,151,Lexington,KY,29
+29,MSST,Mississippi State University,www.msstate.edu,211.09568397887102,161,Starkville,MS,30
+30,APP,Appalachian State University,www.appstate.edu,209.25004206522715,164,Boone,NC,31
+31,ELON,Elon University,www.elon.edu,198.09944610377386,177,Elon,NC,32
+32,MERC,Mercer University,www.mercer.edu,196.59109356317197,179,Macon,GA,33
+33,MOSL,University of Missouri at Saint Louis,www.umsl.edu,190.81016715616352,188,St. Louis,MO,34
+34,GCOL,Georgia College &amp; State University,www.gcsu.edu,189.09838587741797,190,Milledgeville,GA,35
+35,TENN,Tennessee Technological University,www.tntech.edu,186.24993373484176,200,Cookeville,TN,36
+36,CEDA,Cedarville University,www.cedarville.edu,182.8367139046897,208,Cedarville,OH,37
+37,FUR,Furman University,www.www2.furman.edu,181.10498459178825,212,Greenville,SC,38
+38,GASO,Georgia Southern University,www.georgiasouthern.edu,179.94129670030588,217,Statesboro,GA,39
+39,DAV,Davidson College,www.davidson.edu,176.41221570719188,221,Davidson,NC,40
+40,ALA,Alaska Pacific University,www.ua.edu,161.87225778999874,249,Tuscaloosa,AL,41
+41,DEP,DePauw University,www.depauw.edu,157.98522534836565,253,Greencastle,IN,42
+42,BUT,Butler University,www.butler.edu,157.29188184535286,254,Indianapolis,IN,43
+43,SIUE,Southern Illinois University at Edwardsville,www.siue.edu,156.83279302257387,255,Edwardsville,IL,44
+44,DAY,University of Dayton,www.udayton.edu,156.10679466880458,258,Dayton,OH,45
+45,WKU,Western Kentucky University,www.wku.edu,152.48838262439773,268,Bowling Green,KY,46
+46,COVE,Covenant College,www.covenant.edu,151.03805570139144,272,Lookout Mountain,GA,47
+47,INST,Indiana State University,www.indstate.edu,146.17206976832637,283,Terre Haute,IN,48
+48,WOF,Wofford College,www.wofford.edu,141.04025057505902,298,Spartanburg,SC,49
+49,MOST,Missouri State University,www.missouristate.edu,140.85932841247376,299,Springfield,MO,50
+50,SAL,University of South Alabama,www.southalabama.edu,140.2816725770329,301,Mobile,AL,51
+51,RHO,Rhodes College,www.rhodes.edu,136.32042687125238,313,Memphis,TN,52
+52,DNSN,Denison University,www.denison.edu,132.86812816236295,333,Granville,OH,53
+53,NKY,Northern Kentucky University,www.nku.edu,131.02819202808837,342,Highland Heights,KY,54
+54,UNCG,University of North Carolina at Greensboro,www.uncg.edu,126.02055053868384,349,Greensboro,NC,55
+55,HIGH,High Point University,www.highpoint.edu,123.08634790545233,357,High Point,NC,56
+56,UAB,"University of Alabama, Birmingham",www.uab.edu,120.87300704202937,360,Birmingham,AL,57
+57,IPUI,"Indiana University-Purdue University, Indianapolis",www.iupui.edu,118.9042341671921,363,Indianapolis,IN,58
+58,VALP,Valparaiso University,www.valpo.edu,118.28319391188097,366,Valparaiso,IN,59
+59,OZRK,College of the Ozarks,www.cofo.edu,114.80023655074712,378,Point Lookout,MO,60
+60,HART,University of Hartford,www.hartford.edu,114.25176882978963,380,West Hartford,CT,61
+61,BALL,Ball State University,www.cms.bsu.edu,114.09371275226408,381,Muncie,IN,62
+62,SOMS,University of Southern Mississippi,www.home.usm.edu,110.86948425040367,389,Hattiesburg,MS,63
+63,OGL,Oglethorpe University,www.oglethorpe.edu,108.86700816128752,394,Atlanta,GA,64
+64,BLMT,Belmont University,www.belmont.edu,107.87032230296273,401,Nashville,TN,65
+65,WIT,Wittenberg University,www.wittenberg.edu,107.80291323930823,402,Springfield,OH,66
+66,OHWS,Ohio Wesleyan University,www.owu.edu,106.42193067513392,406,Delaware,OH,67
+67,SEWA,Sewanee‚ÄîUniversity of the South,www.sewanee.edu,106.12098020394001,407,Sewanee,TN,68
+68,LIPS,Lipscomb University,www.lipscomb.edu,104.81302246695918,409,Nashville,TN,69
+69,HAN,Hanover College,www.hanover.edu,104.18675088949294,411,Hanover,IN,70
+70,KENY,Kenyon College,www.kenyon.edu,101.65279509449016,415,Gambier,OH,71
+71,UNG,University of North Georgia,www.ung.edu,100.45983350791403,419,Dahlonega,GA,72
+72,BRAD,Bradley University,www.bradley.edu,100.29106186283968,420,Peoria,IL,73
+73,ILWS,Illinois Wesleyan University,www.iwu.edu,96.3446944999111,431,Bloomington,IL,74
+74,MLSP,Millsaps College,www.millsaps.edu,94.85447212302671,435,Jackson,MS,75
+75,CEN,Centre College,www.centre.edu,92.7875573561845,445,Danville,KY,76
+76,MTSU,Middle Tennessee State University,www.mtsu.edu,87.85426154525584,461,Murfreesboro,TN,77
+77,TRA,Transylvania University,www.transy.edu,85.24055159576079,475,Lexington,KY,78
+78,WFL,University of West Florida,www.uwf.edu,85.13584069784571,476,Pensacola,FL,79
+79,MUR,Murray State University,www.murraystate.edu,81.02573325099843,492,Murray,KY,80
+80,WRIG,Wright State University,www.wright.edu,77.96471594684124,500,Dayton,OH,81
+81,UNON,Union University (TN),www.uu.edu,77.06610590389852,504,Jackson,TN,82
+82,MVSL,Maryville University of Saint Louis,www.maryville.edu,69.02463432094117,538,St. Louis,MO,83
+83,SPE,Spelman College,www.spelman.edu,66.67963490526938,555,Atlanta,GA,84
+84,ROA,Roanoke College,www.roanoke.edu,65.18196559759963,561,Salem,VA,85
+85,OUA,Ouachita Baptist University,www.obu.edu,62.61231352562504,571,Arkadelphia,AR,86
+86,BIR,Birmingham-Southern College,www.bsc.edu,58.99936450989583,586,Birmingham,AL,87
+87,OHNO,Ohio Northern University,www.onu.edu,57.537061584598916,593,Ada,OH,88
+88,CAP,Capital University,www.capital.edu,57.44663583656245,594,Columbus,OH,89
+89,PRE,Presbyterian College,www.presby.edu,54.615668581595344,611,Clinton,SC,90
+90,WMNM,Westminster College (MO),www.westminster-mo.edu,52.71316502918194,619,Fulton,MO,91
+91,BER,Berry College,www.berry.edu,52.506266716013585,621,Mount Berry,GA,92
+92,ASBU,Asbury University,www.asbury.edu,49.62946114505087,633,Wilmore,KY,93
+93,UNCA,University of North Carolina at Asheville,www.unca.edu,45.471000368921864,658,Asheville,NC,94
+94,WAR,Warren Wilson College,www.warren-wilson.edu,45.20611927494559,660,Asheville,NC,95
+95,CNNC,Connecticut College,www.conncoll.edu,43.964323103432406,667,New London,CT,96
+96,LYON,Arkansas College (Lyon College),www.lyon.edu,43.94932753115836,668,Batesville,AR,97
+97,CBRS,Christian Brothers University,www.cbu.edu,41.018413668142045,687,Memphis,TN,98
+98,GRVL,North Greenville University,www.ngu.edu,39.97107385344427,690,Tigerville,SC,99
+99,XAV,Xavier University,www.xavier.edu,39.95719170579565,691,Cincinnati,OH,100
+100,EVAN,University of Evansville,www.evansville.edu,38.94058068892582,698,Evansville,IN,101
+101,AGN,Agnes Scott College,www.agnesscott.edu,38.09490629246682,705,Decatur,GA,102
+102,HEN,Hendrix College,www.hendrix.edu,37.86373589206619,707,Conway,AR,103
+103,OTTE,Otterbein University,www.otterbein.edu,36.57802616400892,714,Westerville,OH,104
+104,WIL,Wilkes University,www.wiu.edu,35.61965170612157,719,Macomb,IL,105
+105,WBST,Webster University,www.webster.edu,27.915823270051362,776,St. Louis,MO,106
+106,SIL,Southern Illinois University Carbondale,www.siu.edu,25.63127751048168,792,Carbondale,IL,107
+107,WAB,Wabash College,www.wabash.edu,24.91134133957138,797,Crawfordsville,IN,108
+108,CMBA,Columbia College,www.missouri.edu,24.72306351119687,799,Columbia,MO,109
+109,CVRS,Converse College,www.converse.edu,20.61269931856495,823,Spartanburg,SC,110
+110,ILCL,Illinois College,www.ic.edu,20.47192444141396,825,Jacksonville,IL,111
+111,MLKU,Millikin University,www.millikin.edu,19.293286300774042,829,Decatur,IL,112
+112,HOLL,Hollins University,www.hollins.edu,19.102138484612567,830,Roanoke,VA,113
+113,EAR,Earlham College,www.earlham.edu,15.613042623000155,852,Richmond,IN,114
+114,TAY,Taylor University,www.taylor.edu,14.365403333757058,872,Upland,IN,115
+115,GUI,Guilford College,www.guilford.edu,12.098789583688358,884,Greensboro,NC,116
+116,EAST,Eastern College,www.eku.edu,9.58048006990387,899,Richmond,KY,117
+117,QUEE,Queens University of Charlotte,www.queens.edu,4.8749845190396,925,Charlotte,NC,118
+118,MRTA,Marietta College,www.marietta.edu,4.691883541148826,927,Marietta,OH,119
+119,BELL,Bellarmine University,www.bellarmine.edu,4.300243972940365,931,Louisville,KY,120
+120,MHSE,Morehouse College,www.morehouse.edu,2.7851550295619347,939,Atlanta,GA,121
+121,CTWB,Catawba College,www.catawba.edu,1.5463633890100255,945,Salisbury,NC,122
+122,CARS,Carson-Newman University,www.cn.edu,-0.8073044153014735,957,Jefferson City,TN,123
+123,MRVL,Maryville College,www.maryvillecollege.edu,-2.215503579831193,964,Maryville,TN,124
+124,SLMC,Salem College,www.salem.edu,-9.902766281760762,988,Winston-Salem,NC,125
+125,MEM,University of Maine at Machias,www.mephis.edu,-22.91726541856727,1020,Memphis,TN,126
+126,ANDE,Anderson University (IN),www.anderson.edu,-30.738426862977093,1028,Anderson,IN,127
+127,GOS,Goshen College,www.goshen.edu,-31.501903992688113,1032,Goshen,IN,128
+128,SPRI,Spring Hill College,www.shc.edu,-32.933347985439184,1034,Mobile,AL,129
+129,HUNT,Huntington University,www.huntington.edu,-40.855448569259124,1044,Huntington,IN,130
+130,GTWK,Georgetown College (KY),www.georgetowncollege.edu,-52.12364660693396,1052,Georgetown,KY,131
+131,EMOR,Emory &amp; Henry College,www.ehc.edu,-65.92114408277996,1065,Emory,VA,132
+132,BERE,Berea College,www.berea.edu,-76.21128871456288,1073,Berea,KY,133
+133,FISK,Fisk University,www.fisk.edu,-77.91370873953491,1075,Nashville,TN,134

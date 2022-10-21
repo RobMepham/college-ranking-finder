@@ -1,0 +1,651 @@
+,Name,C_ID,City,State,Longitude,Latitude
+0,Abilene Christian University,ABI,Abilene,TX,-99.7475905,32.44645
+1,Albion College,ABIN,Albion,MI,-84.7530304,42.243097
+2,Adelphi University,ADE,Garden City,NY,-73.6343052,40.7266477
+3,United States Air Force Academy,AF,Colorado Springs,CO,-104.825348,38.8339578
+4,Agnes Scott College,AGN,Decatur,GA,-84.5740953,30.8736613
+5,Augustana College,AGST,Rock Island,IL,-90.5766144,41.4411786
+6,"University of Alaska, Fairbanks",AKFB,Fairbanks,AK,-147.716675,64.837845
+7,University of Alabama,ALA,Tuscaloosa,AL,-86.859181,33.490251
+8,"University at Albany, SUNY",ALB,Albany,NY,-73.754968,42.6511674
+9,Alfred University,ALF,Alfred,NY,-77.7906062,42.2542334
+10,Allegheny College,ALL,Meadville,PA,-80.151449,41.641445
+11,Alma College,ALM,Alma,MI,-84.659727,43.37892
+12,American University,AMER,Washington,DC,-77.0365427,38.8950368
+13,Amherst College,AMH,Amherst,MA,-72.505714,42.3685658
+14,"University of Alaska, Anchorage",ANCH,Anchorage,AK,-149.894852,61.2163129
+15,Anderson University (IN),ANDE,Anderson,IN,-85.6802541,40.1053196
+16,Andrews University,ANDW,Berrien Springs,MI,-86.3388965,41.9464336
+17,Appalachian State University,APP,Boone,NC,-81.6746158,36.2165362
+18,"Arizona State University, Tempe",ARIZ,Tempe,AZ,-111.9400091,33.4255056
+19,University of Arkansas,ARK,Fayetteville,AR,-94.1574328,36.0625843
+20,United States Military Academy,ARMY,West Point,NY,-72.5359869,40.8512481
+21,Asbury University,ASBU,Wilmore,KY,-84.6601993,37.8640406
+22,Ashland University,ASHL,Ashland,OH,-82.2360391,40.7887367
+23,Assumption College,ASS,Worcester,MA,-71.8018877,42.2625621
+24,Auburn University,AUBU,Auburn,AL,-86.767638,33.576353
+25,Augustana University,AUGU,Sioux Falls,SD,-96.7307737,43.5488256
+26,Aurora University,AURO,Aurora,IL,-88.3147539,41.7571701
+27,Austin College,AUS,Sherman,TX,-101.8858689,36.2452294
+28,University of Arizona,AZ,Tucson,AZ,-110.9748477,32.2228765
+29,Azusa Pacific University,AZUS,Azusa,CA,-117.9056046,34.1338751
+30,Babson College,BABS,Babson Park,MA,-71.2550501,42.2970161
+31,Baldwin Wallace University,BALD,Berea,OH,-81.8543026,41.3661614
+32,Ball State University,BALL,Muncie,IN,-85.3865271,40.1936892
+33,Bard College,BARD,Annandale-on-Hudson,NY,-73.9081901,42.0128695
+34,Bates College,BATE,Lewiston,ME,-70.2147764,44.100351
+35,Baylor University,BAY,Waco,TX,-97.114845,31.5520981
+36,Bellarmine University,BELL,Louisville,KY,-85.759407,38.2542376
+37,Benedictine University,BENE,Lisle,IL,-88.0747687,41.801159
+38,Bentley University,BENT,Waltham,MA,-71.2358004,42.3756401
+39,Berry College,BER,Mount Berry,GA,-85.1832843,34.275093
+40,Berea College,BERE,Berea,KY,-84.2963224,37.568694
+41,Berklee College of Music,BERK,Boston,MA,102.215628,3.9494877
+42,Bethel University,BETH,Saint Paul,MN,-93.0931028,44.9497487
+43,Bowling Green State University,BGSU,Bowling Green,OH,-83.6513229,41.3747744
+44,"Binghamton University, SUNY",BING,Binghamton,NY,-75.9125262,42.0987125
+45,Biola University,BIOL,La Mirada,CA,-118.0107092,33.9060971
+46,Birmingham-Southern College,BIR,Birmingham,AL,-86.765783,33.570499
+47,Belmont University,BLMT,Nashville,TN,-86.7742984,36.1622767
+48,Bloomsburg University of Pennsylvania,BLOO,Bloomsburg,PA,-76.4537302,41.0044958
+49,Beloit College,BLT,Beloit,WI,-89.031784,42.5083272
+50,Bennington College,BNNG,Bennington,VT,-73.1473048,43.0125713
+51,Boise State University,BOIS,Boise,ID,-116.200886,43.6166163
+52,Boston University,BOS,Boston,MA,-71.060511,42.3554334
+53,Boston College,BOST,Chestnut Hill,MA,-71.1661647,42.3306529
+54,Bowdoin College,BOWD,Brunswick,ME,-69.9653278,43.9145244
+55,Bradley University,BRAD,Peoria,IL,-89.5891008,40.6938609
+56,Brandeis University,BRDS,Waltham,MA,-71.2358004,42.3756401
+57,Barnard College,BRND,New York,NY,-74.0060152,40.7127281
+58,Brown University,BRO,Providence,RI,-2.6640439,51.4325529
+59,Bryn Mawr College,BRY,Bryn Mawr,PA,-75.31734069,40.0238245
+60,Bryant University,BRYA,Smithfield,RI,-1.8219437,52.6860569
+61,Bucknell University,BUC,Lewisburg,PA,-76.8847639,40.9645337
+62,University at Buffalo (SUNY),BUF,Buffalo,NY,-78.8783922,42.8867166
+63,Butler University,BUT,Indianapolis,IN,-86.1583502,39.7683331
+64,Brigham Young University,BYU,Provo,UT,-111.6587085,40.2337289
+65,Brigham Young University-Idaho,BYUI,Rexburg,ID,-111.7870222,43.8235163
+66,"University of California, Berkeley",CAL,Berkeley,CA,-122.2396336,37.8753497
+67,"California State University, Chico",CALC,Chico,CA,-121.8374777,39.7284945
+68,California Institute of Technology,CALT,Pasadena,CA,-118.1444779,34.1476452
+69,Calvin University,CALV,Grand Rapids,MI,-85.6678639,42.9632405
+70,Canisius College,CAN,Buffalo,NY,-78.8783922,42.8867166
+71,Capital University,CAP,Columbus,OH,-83.0007065,39.9622601
+72,Carthage College,CAR,Kenosha,WI,-87.8212263,42.5846773
+73,Carroll University,CARR,Waukesha,WI,-88.2314813,43.0116784
+74,Carson-Newman University,CARS,Jefferson City,TN,-83.4923961,36.122311
+75,California Institute of the Arts,CART,Santa Clarita,CA,116.312791,24.7246055
+76,College of the Atlantic,CATL,Bar Harbor,ME,-68.2043361,44.3876378
+77,Christian Brothers University,CBRS,Memphis,TN,-89.9668758,35.1335022
+78,College of Charleston,CCHN,Charleston,SC,-79.9402728,32.7876012
+79,Cornell College (IA),CCIA,Mount Vernon,IA,-91.4171209,41.9222443
+80,Central College,CCOL,Pella,IA,-92.9174074,41.4073138
+81,Cedarville University,CEDA,Cedarville,OH,-83.8085372,39.7442268
+82,Centre College,CEN,Danville,KY,-84.7721823,37.6456488
+83,Central Michigan University,CENT,Mount Pleasant,MI,-84.7668495,43.597646
+84,"SUNY, College of Environmental Science and Forestry",CESF,Syracuse,NY,-76.1474244,43.0481221
+85,"California State University, Fullerton",CFTN,Fullerton,CA,-117.9294165,33.8708215
+86,United States Coast Guard Academy,CGRD,New London,CT,-85.9991161,39.9102386
+87,Chapman University,CHA,Orange,CA,-117.8704931,33.7500378
+88,"University of North Carolina, Charlotte",CHLT,Charlotte,NC,-80.8430827,35.2272086
+89,College of Idaho,CID,Caldwell,ID,-116.6894156,43.6678736
+90,University of Cincinnati,CIN,Cincinnati,OH,-84.5124602,39.1014537
+91,Clarke University,CLAR,Dubuque,IA,-90.6647985,42.5006243
+92,Colby College,CLBY,Waterville,ME,-69.6317121,44.5520105
+93,Colorado College,CLCL,Colorado Springs,CO,-104.825348,38.8339578
+94,University of Colorado Colorado Springs,CLCS,Colorado Springs,CO,-104.825348,38.8339578
+95,Clemson University,CLE,Clemson,SC,-82.8364111,34.6850749
+96,Cleveland State University,CLEV,Cleveland,OH,-81.6936813,41.4996562
+97,Clark University (MA),CLRK,Worcester,MA,-71.8018877,42.2625621
+98,California Lutheran University,CLUT,Thousand Oaks,CA,-118.8375937,34.1705609
+99,California State University Maritime Academy,CMAR,Vallejo,CA,-122.2566367,38.1040864
+100,"University of Missouri, Columbia",CMBA,Columbia,MO,-92.3337366,38.951883
+101,Columbia University,CMBU,New York,NY,-74.0060152,40.7127281
+102,Claremont McKenna College,CMCK,Claremont,CA,-117.7197785,34.0966764
+103,Carnegie Mellon University,CMEL,Pittsburgh,PA,-79.9900861,40.4416941
+104,Centenary College of Louisiana,CNLA,Shreveport,LA,-93.7559378,32.4707862
+105,Connecticut College,CNNC,New London,CT,-85.9991161,39.9102386
+106,Christopher Newport University,CNWP,Newport News,VA,-76.42977,36.9775016
+107,Coe College,COE,Cedar Rapids,IA,-91.6704053,41.9758872
+108,"University of Colorado, Boulder",COL,Boulder,CO,-105.3632079,40.102555
+109,"University of Colorado, Denver",COLD,Denver,CO,-104.984862,39.7392364
+110,Colgate University,COLG,Hamilton,NY,-74.4659275,43.6307863
+111,"Colorado State University, Fort Collins",COLO,Fort Collins,CO,-105.0668085,40.5508527
+112,"Concordia College, Moorhead",CONC,Moorhead,MN,-96.7538674,46.8739081
+113,University of Connecticut,CONN,Storrs,CT,-77.3732789,25.046071
+114,Cooper Union,COOP,New York,NY,-74.0060152,40.7127281
+115,Cornell University,CORN,Ithaca,NY,-76.4968019,42.4396039
+116,Covenant College,COVE,Lookout Mountain,GA,-85.3577363,34.9775758
+117,"California Polytechnic State University, San Luis Obispo",CPLY,San Luis Obispo,CA,-120.3757163,35.3540209
+118,Creighton University,CRE,Omaha,NE,-95.9383758,41.2587459
+119,Clarkson University,CRKS,Potsdam,NY,-74.9813349,44.6697996
+120,Carleton College,CRL,Northfield,MN,-93.161159,44.4582041
+121,Carroll College,CRRL,Helena,MT,-112.036277,46.5927425
+122,College of Saint Benedict,CSBN,St. Joseph,MN,-94.3180516,45.5645229
+123,"California State University, East Bay",CSEB,Hayward,CA,-122.080796,37.6688205
+124,"California State University, Los Angeles",CSLA,Los Angeles,CA,-118.242766,34.0536909
+125,Colorado School of Mines,CSMN,Golden,CO,-7.932068,12.6656205
+126,"California State University, Northridge",CSNR,Northridge,CA,-118.5369316,34.2345615
+127,"California State University, San Bernardino",CSSB,San Bernardino,CA,-116.0833144,34.8253019
+128,College of St. Scholastica,CSSC,Duluth,MN,-92.1251218,46.7729322
+129,The Catholic University of America,CTAM,Washington,DC,-77.0365427,38.8950368
+130,Catawba College,CTWB,Salisbury,NC,-80.4742261,35.6709727
+131,Converse College,CVRS,Spartanburg,SC,-81.9320157,34.9498007
+132,Central Washington University,CWAS,Ellensburg,WA,-120.545122,46.9970635
+133,Case Western Reserve University,CWRU,Cleveland,OH,-81.6936813,41.4996562
+134,University of Dallas,DAL,Irving,TX,-96.9442177,32.8295183
+135,Dartmouth College,DAR,Hanover,NH,-72.288666,43.703622
+136,Davidson College,DAV,Davidson,NC,-80.2115053,35.7902384
+137,University of Dayton,DAY,Dayton,OH,-84.1916069,39.7589478
+138,University of Delaware,DEL,Newark,DE,-75.7630866,39.6775927
+139,University of Denver,DEN,Denver,CO,-104.984862,39.7392364
+140,DePauw University,DEP,Greencastle,IN,-86.8647316,39.6444898
+141,DePaul University,DEPA,Chicago,IL,-87.6244212,41.8755616
+142,Dickinson College,DICK,Carlisle,PA,-77.1890783,40.201499
+143,Denison University,DNSN,Granville,OH,-82.5196037,40.0681192
+144,Doane University,DOAN,Crete,NE,-96.961372,40.628143
+145,Dordt University,DORD,Sioux Center,IA,-96.1756497,43.0796879
+146,Drake University,DRA,Des Moines,IA,-93.6046655,41.5910323
+147,Drew University,DRE,Madison,NJ,-74.417097,40.7598227
+148,Drexel University,DREX,Philadelphia¬†,PA,-75.1635262,39.9527237
+149,Duke University,DUK,Durham,NC,-78.9018053,35.996653
+150,Duquesne University,DUQU,Pittsburgh,PA,-79.9900861,40.4416941
+151,Earlham College,EAR,Richmond,IN,-84.8898521,39.8286897
+152,Eastern Kentucky University,EAST,Richmond,KY,-84.2946539,37.7478572
+153,East Carolina University,ECAR,Greenville,NC,-77.3724593,35.613224
+154,Eckerd College,ECK,St. Petersburg,FL,-82.6695085,27.7703796
+155,Elizabethtown College,ELI,Elizabethtown,PA,-76.6042521,40.153364
+156,Elmira College,ELM,Elmira,NY,-76.8077338,42.0897965
+157,Elmhurst College,ELMH,Elmhurst,IL,-87.9403418,41.8994745
+158,Elon University,ELON,Elon,NC,-79.5066895,36.1029132
+159,"Embry-Riddle Aeronautical University, Prescott",EMBR,Prescott,AZ,-112.468761,34.5399962
+160,"Embry-Riddle Aeronautical University, Daytona Beach",EMDB,Daytona Beach,FL,-81.0228331,29.2108147
+161,Emerson College,EMER,Boston,MA,-71.060511,42.3554334
+162,Emory University,EMO,Atlanta,GA,-84.3902644,33.7489924
+163,Emory & Henry College,EMOR,Emory,VA,-81.8362343,36.7728907
+164,University of Evansville,EVAN,Evansville,IN,-87.5558483,37.9747645
+165,Fairfield University,FAI,Fairfield,CT,-73.552139,41.051162
+166,Fairleigh Dickinson University,FAIR,Teaneck,NJ,-74.0072568,40.8860164
+167,"SUNY, Farmingdale State College",FARM,Farmingdale,NY,-73.4458564,40.7328811
+168,Florida Atlantic University,FATL,Boca Raton,FL,-80.0830984,26.3586885
+169,Florida Gulf Coast University,FGCU,Fort Myers,FL,-81.8723084,26.640628
+170,Fisk University,FISK,Nashville,TN,-86.7742984,36.1622767
+171,Florida Institute of Technology,FIT,Melbourne,FL,-80.6371513,28.106471
+172,Florida International University,FIU,Miami,FL,-80.19362,25.7741728
+173,University of Florida,FL,Gainesville,FL,-82.3249846,29.6519684
+174,Florida Southern College,FLO,Lakeland,FL,-81.9498042,28.0394654
+175,Florida State University,FLST,Tallahassee,FL,-84.2809332,30.4380832
+176,Franklin and Marshall College,FRAN,Lancaster,PA,-76.3056686,40.03813
+177,Fordham University,FRDM,Bronx,NY,-73.8785937,40.8466508
+178,"California State University, Fresno",FRST,Fresno,CA,-119.7848307,36.7394421
+179,Fort Lewis College,FRTL,Durango,CO,-107.8215818,37.2395367
+180,Furman University,FUR,Greenville,SC,-82.3984882,34.851354
+181,Georgia Southern University,GASO,Statesboro,GA,-81.7832912,32.4490141
+182,Georgia State University,GAST,Atlanta,GA,-84.3902644,33.7489924
+183,Georgia College &amp; State University,GCOL,Milledgeville,GA,-83.2320991,33.0801429
+184,Gettysburg College,GET,Gettysburg,PA,-77.231012,39.8308973
+185,George Fox University,GFOX,Newberg,OR,-122.972751,45.300347
+186,George Mason University,GMAS,Fairfax,VA,-77.3063733,38.8462236
+187,"SUNY, Geneseo",GNSO,Geneseo,NY,-77.816947,42.795896
+188,Gonzaga University,GON,Spokane,WA,-117.42351,47.6571934
+189,Gordon College,GOR,Wenham,MA,-70.8931569,42.60428065
+190,Goshen College,GOS,Goshen,IN,-85.834366,41.5824086
+191,Goucher College,GOU,Baltimore,MD,-76.610759,39.2908816
+192,Grand Valley State University,GRA,Allendale,MI,-85.95296849,42.9903205
+193,Grinnell College,GRI,Grinnell,IA,-92.7239637,41.7430237
+194,Grove City College,GRO,Grove City,PA,-80.0886631,41.1579008
+195,North Greenville University,GRVL,Tigerville,SC,-82.3684509,35.0684492
+196,Georgia Institute of Technology,GTCH,Atlanta,GA,-84.3902644,33.7489924
+197,Georgetown College (KY),GTWK,Georgetown,KY,-84.5588311,38.2097967
+198,Georgetown University,GTWN,Washington,DC,-77.0365427,38.8950368
+199,Guilford College,GUI,Greensboro,NC,-79.7919754,36.0726355
+200,Gustavus Adolphus College,GUS,St. Peter,MN,-93.9585295,44.3238384
+201,George Washington University,GWAS,Washington,DC,-77.0365427,38.8950368
+202,Hamilton College,HAM,Clinton,NY,-73.6686982,44.7278943
+203,Hamline University,HAML,Saint Paul,MN,-93.0931028,44.9497487
+204,Hampshire College,HAMP,Amherst,MA,-72.505714,42.3685658
+205,Hanover College,HAN,Hanover,IN,-85.4735707,38.7142263
+206,University of Hartford,HART,West Hartford,CT,-84.4537545,39.3718852
+207,Hastings College,HAS,Hastings,NE,-98.3898883,40.5861322
+208,Haverford College,HAVE,Haverford,PA,-75.2943516,40.0131672
+209,"University of Hawaii, Manoa",HAW,Honolulu,HI,-157.855676,21.304547
+210,Hendrix College,HEN,Conway,AR,-92.6888936,35.2521996
+211,Houghton College,HGTN,Houghton,NY,-78.1572319,42.4233981
+212,High Point University,HIGH,High Point,NC,-80.0053176,35.9556924
+213,Hillsdale College,HIL,Hillsdale,MI,-84.5984396,41.8779105
+214,Hiram College,HIR,Hiram,OH,-81.14371,41.312555
+215,Mount Holyoke College,HLKE,South Hadley,MA,-72.582258,42.2495463
+216,Harvey Mudd College,HMUD,Claremont,CA,-117.7197785,34.0966764
+217,Hobart and William Smith Colleges,HOB,Geneva,NY,-76.98075684,42.86548285
+218,Hofstra University,HOF,Hempstead,NY,-73.6190736,40.6736812
+219,Hollins University,HOLL,Roanoke,VA,-79.9414313,37.270973
+220,Hood College,HOO,Frederick,MD,-77.4127562,39.415779
+221,Hope College,HOP,Holland,MI,-86.1090828,42.7876022
+222,University of Houston,HOU,Houston,TX,-95.3676974,29.7589382
+223,Howard University,HOWA,Washington,DC,-77.0365427,38.8950368
+224,College of the Holy Cross,HRCS,Worcester,MA,-71.8018877,42.2625621
+225,Hartwick College,HRTW,Oneonta,NY,-75.0629531,42.453492
+226,Harvard University,HRVD,Cambridge,MA,-71.1056157,42.3750997
+227,Hampden-Sydney College,HSYD,Hampden-Sydney,VA,-78.47098543,37.241524
+228,University of Alabama in Huntsville,HTVL,Huntsville,AL,-86.803714,33.555983
+229,Humboldt State University,HUMB,Arcata,CA,-124.08284,40.866517
+230,Huntington University,HUNT,Huntington,IN,-85.5018494,40.8008286
+231,University of Idaho,ID,Moscow,ID,-117.0001651,46.7323875
+232,Illinois Institute of Technology,IIT,Chicago,IL,-87.6244212,41.8755616
+233,Illinois College,ILCL,Jacksonville,IL,-90.2288356,39.7343037
+234,Illinois State University,ILST,Normal,IL,-88.9843937,40.5092961
+235,Illinois Wesleyan University,ILWS,Bloomington,IL,-88.9939147,40.4797828
+236,Immaculata University,IMMA,Immaculata,PA,14.4016708,50.08902
+237,"Indiana University, Bloomington",IND,Bloomington,IN,-86.5342881,39.1670396
+238,Indiana University of Pennsylvania,INPI,Indiana,PA,-79.1262839,40.6424116
+239,Indiana State University,INST,Terre Haute,IN,-87.4139119,39.4667025
+240,Iona College,ION,New Rochelle,NY,-73.7826363,40.9115386
+241,Iowa State University,IOW,Ames,IA,-93.6170448,42.0267567
+242,University of Iowa,IOWA,Iowa City,IA,-91.5299106,41.6612561
+243,"Indiana University-Purdue University, Indianapolis",IPUI,Indianapolis,IN,-86.1583502,39.7683331
+244,Ithaca College,ITH,Ithaca,NY,-76.4968019,42.4396039
+245,John Brown University,JBWN,Siloam Springs,AR,-94.5404962,36.1881365
+246,John Carroll University,JCRL,University Heights,OH,-81.537346,41.497831
+247,Johns Hopkins University,JHOP,Baltimore,MD,-76.610759,39.2908816
+248,The Juilliard School,JLRD,New York,NY,-74.0060152,40.7127281
+249,James Madison University,JMU,Harrisonburg,VA,-78.8688833,38.4493315
+250,Juniata College,JUN,Huntingdon,PA,-78.0281185,40.3446332
+251,Kalamazoo College,KALA,Kalamazoo,MI,-85.5872286,42.291707
+252,University of Kansas,KAN,Lawrence,KS,-95.2359496,38.9719384
+253,Kansas State University,KAST,Manhattan,KS,-96.5716694,39.1836082
+254,Kent State University Kent Campus,KENT,Kent,OH,-81.357886,41.1536674
+255,Kenyon College,KENY,Gambier,OH,-82.3970994,40.375643
+256,Kettering University,KETT,Flint,MI,-83.6900211,43.0161693
+257,King's College (PA),KING,Wilkes-Barre,PA,-75.8817316,41.2464824
+258,Knox College,KNO,Galesburg,IL,-90.3712169,40.9475652
+259,"University of Louisiana, Lafayette",LA,Lafayette,LA,-92.4373252,31.3704662
+260,Lafayette College,LAF,Easton,PA,-75.2099866,40.6916081
+261,Lake Forest College,LAKE,Lake Forest,IL,-87.8407055,42.2586461
+262,La Salle University,LASL,Philadelphia,PA,-75.1635262,39.9527237
+263,Louisiana Tech University,LATC,Ruston,LA,-119.084077,35.321197
+264,Lawrence University,LAW,Appleton,WI,-88.4069744,44.2613967
+265,Lawrence Technological University,LAWR,Southfield,MI,-83.2218731,42.4733689
+266,"California State University, Long Beach",LBSU,Long Beach,CA,-118.191604,33.7690164
+267,Loyola University Chicago,LCHI,Chicago,IL,-87.6244212,41.8755616
+268,Le Moyne College,LE ,Syracuse,NY,-76.1474244,43.0481221
+269,Lebanon Valley College,LEB,Annville,PA,-76.515226,40.3295901
+270,Lehigh University,LEH,Bethlehem,PA,-48.4682453,-1.45056
+271,Lewis & Clark College,LEWI,Portland,OR,-122.674194,45.5202471
+272,Liberty University,LIBE,Lynchburg,VA,-79.1422464,37.4137536
+273,Lipscomb University,LIPS,Nashville,TN,-86.7742984,36.1622767
+274,Loyola University Maryland,LMD,Baltimore,MD,-76.610759,39.2908816
+275,Loyola Marymount University,LMT,Los Angeles,CA,-118.242766,34.0536909
+276,Linfield College,LNFL,McMinnville,OR,-123.194463,45.2100367
+277,Loyola University New Orleans,LNO,New Orleans,LA,-90.0782127,29.9759983
+278,University of Louisville,LOU,Louisville,KY,-85.759407,38.2542376
+279,Louisiana State University,LOUI,Baton Rouge,LA,-82.502277,28.2968872
+280,Luther College,LUT,Decorah,IA,-91.7859098,43.3041609
+281,University of La Verne,LVRN,La Verne,CA,-117.7678355,34.1008426
+282,Lycoming College,LYC,Williamsport,PA,-77.0027671,41.2493292
+283,Lynn University,LYNN,Boca Raton,FL,-80.0830984,26.3586885
+284,Lyon College,LYON,Batesville,AR,-91.6409722,35.769799
+285,Macalester College,MAC,St. Paul,MN,-93.0931028,44.9497487
+286,Manhattan College,MANH,Riverdale,NY,-73.90639,40.90056
+287,Manhattan School of Music,MANM,New York,NY,-74.0060152,40.7127281
+288,Marist College,MAR,Poughkeepsie,NY,-73.9283672,41.7065539
+289,SUNY Maritime College,MARI,Throggs Neck,NY,-73.82419108,40.8214533
+290,Marlboro College,MARL,Marlboro,VT,-72.7259271,42.859526
+291,Marquette University,MARQ,Milwaukee,WI,-87.922497,43.0349931
+292,Massachusetts Institute of Technology,MAS,Cambridge,MA,-71.1056157,42.3750997
+293,"University of Massachusetts, Amherst",MASS,Amherst,MA,-72.505714,42.3685658
+294,Master's University,MAST,Santa Clarita,CA,-118.542586,34.3916641
+295,Middlebury College,MBRY,Middlebury,VT,-73.16330105,44.0072736
+296,McDaniel College,MCDA,Westminster,MD,-76.9959277,39.5752639
+297,Montclair State University,MCLR,Montclair,NJ,-74.2210643,40.8164458
+298,"University of Maryland, College Park",MD,College Park,MD,-76.9461029,38.99203005
+299,Maryland Institute College of Art,MDIC,Baltimore,MD,73.00680964,2.99840315
+300,University of Maine,ME,Orono,ME,-68.672791,44.883607
+301,University of Memphis,MEM,Memphis,TN,-89.9668758,35.1335022
+302,Mercer University,MERC,Macon,GA,-83.6324022,32.8406946
+303,Morehouse College,MHSE,Atlanta,GA,-84.3902644,33.7489924
+304,Manhattanville College,MHVL,Purchase,NY,-73.7145746,41.0409305
+305,University of Miami (FL),MIA,Coral Gables,FL,-80.2683838,25.72149
+306,Miami University (OH),MIAM,Oxford,OH,-84.7420519,39.5103048
+307,"University of Michigan, Ann Arbor",MICH,Ann Arbor,MI,-83.7312291,42.2681569
+308,"University of Wisconsin, Milwaukee",MIL,Milwaukee,WI,-87.922497,43.0349931
+309,Millersville University,MILL,Millersville,PA,-76.3545372,39.997998
+310,"University of Minnesota, Twin Cities",MIN,Minneapolis,MN,-93.2654692,44.9772995
+311,"Minnesota State University, Mankato",MINN,Mankato,MN,-93.9993505,44.1634663
+312,University of Mississippi,MISS,University,MS,-104.7852333,40.41171545
+313,Michigan State University,MIST,East Lansing,MI,-84.4721678,42.7320307
+314,Millikin University,MLKU,Decatur,IL,-88.9524151,39.8454163
+315,Mills College,MLLS,Oakland,CA,-122.2713563,37.8044557
+316,Millsaps College,MLSP,Jackson,MS,-82.64282417,39.0462506
+317,United States Merchant Marine Academy,MMAR,Kings Point,NY,-73.7351337,40.8197813
+318,"University of Minnesota, Duluth",MNDT,Duluth,MN,-92.1251218,46.7729322
+319,"University of Minnesota, Morris",MNMO,Morris,MN,-95.913941,45.586072
+320,Monmouth College,MON,Monmouth,IL,-90.6472477,40.9127103
+321,Montana Tech of the University of Montana,MONT,Butte,MT,-112.536508,46.0131505
+322,"University of Missouri, Saint Louis",MOSL,St. Louis,MO,-90.2428756,38.6319657
+323,Missouri State University,MOST,Springfield,MO,-93.2946576,37.1968298
+324,Mount Saint Mary's University (CA),MOUN,Los Angeles,CA,-118.242766,34.0536909
+325,Meredith College,MRDT,Raleigh,NC,-78.6390989,35.7803977
+326,Merrimack College,MRMK,North Andover,MA,-71.1127065,42.6839894
+327,Marietta College,MRTA,Marietta,OH,-81.4548392,39.4167742
+328,Maryville College,MRVL,Maryville,TN,-83.9704593,35.7564719
+329,Moravian College,MRVN,Bethlehem,PA,-48.4682453,-1.45056
+330,University of Mary Washington,MRWS,Fredericksburg,VA,-77.4605399,38.3031837
+331,University of Massachusetts Boston,MSBO,Boston,MA,-71.060511,42.3554334
+332,Mississippi College,MSCO,Clinton,MS,-90.22106916,41.8612133
+333,University of Massachusetts Lowell,MSLW,Lowell,MA,-71.3161718,42.6334247
+334,Massachusetts Maritime Academy,MSMR,Buzzards Bay,MA,-70.618087,41.745383
+335,Milwaukee School of Engineering,MSOE,Milwaukee,WI,-87.922497,43.0349931
+336,Messiah College,MSSH,Mechanicsburg,PA,-77.0047276,40.2101972
+337,Mississippi State University,MSST,Starkville,MS,-88.8183872,33.4503998
+338,Michigan Technological University,MTCH,Houghton,MI,-88.7774734,46.8591287
+339,University of Montana,MTNA,Missoula,MT,-113.995267,46.8701049
+340,Montana State University,MTST,Bozeman,MT,-111.044047,45.6794293
+341,Middle Tennessee State University,MTSU,Murfreesboro,TN,-86.3921096,35.8460396
+342,University of Mount Union,MTUN,Alliance,OH,-81.1059309,40.9153362
+343,Muhlenberg College,MUH,Allentown,PA,-75.4712794,40.6022059
+344,Murray State University,MUR,Murray,KY,-88.314761,36.6103334
+345,Missouri University of Science and Technology,MUST,Rolla,MO,-91.7708076,37.9509324
+346,Maryville University of Saint Louis,MVSL,St. Louis,MO,-90.2428756,38.6319657
+347,United States Naval Academy,NAVY,Annapolis,MD,-76.492786,38.9786401
+348,Northern Arizona University,NAZ,Flagstaff,AZ,-111.6165953,35.1816047
+349,North Central College,NCCL,Naperville,IL,-88.1479278,41.7728699
+350,University of Northern Colorado,NCO,Greeley,CO,-101.8185007,38.4570355
+351,"North Carolina State University, Raleigh",NCST,Raleigh,NC,-78.6390989,35.7803977
+352,University of Notre Dame,ND,Notre Dame,IN,-86.23822026,41.70456775
+353,North Dakota State University,NDST,Fargo,ND,-96.789821,46.877229
+354,University of North Dakota,NDU,Grand Forks,ND,-97.0592028,47.9078244
+355,Northeastern University,NE,Boston,MA,-71.060511,42.3554334
+356,"University of Nebraska, Lincoln",NEB,Lincoln,NE,-96.7077751,40.8088861
+357,Nebraska Wesleyan University,NEBR,Lincoln,NE,-96.7077751,40.8088861
+358,University of New England,NENG,Biddeford,ME,-70.4533844,43.4925843
+359,New College of Florida,NEWF,Sarasota,FL,-82.5308545,27.3365805
+360,New School,NEWS,New York,NY,-74.0060152,40.7127281
+361,University of New Hampshire,NHU,Durham,NH,-70.927048,43.134564
+362,Northern Illinois University,NIU,DeKalb,IL,-88.7713953,41.8903447
+363,New Jersey Institute of Technology,NJIT,Newark,NJ,-74.1723667,40.735657
+364,Northern Kentucky University,NKY,Highland Heights,KY,-84.4521512,39.0330902
+365,New Mexico Institute of Mining and Technology,NMMT,Socorro,NM,-106.8930799,34.0572858
+366,New Mexico State University,NMST,Las Cruces,NM,-106.7798078,32.3140354
+367,University of New Orleans,NOLA,New Orleans,LA,-90.0782127,29.9759983
+368,St. Norbert College,NORB,De Pere,WI,-88.0599986,44.4493584
+369,Nova Southeastern University,NOVA,Fort-Lauderdale-Davie,FL,-80.35591184,26.0705367
+370,"SUNY, College at New Paltz",NPLZ,New Paltz,NY,-74.0844894,41.7464972
+371,University of North Texas,NTX,Denton,TX,-97.1413417,33.1838787
+372,Northwestern University,NW,Evanston,IL,-87.6930459,42.0447388
+373,Northwestern College (IA),NWIA,Orange City,IA,-96.0583138,43.0072424
+374,"University of Northwestern, St. Paul",NWSP,Saint Paul,MN,-93.0931028,44.9497487
+375,"CUNY, Brooklyn College",NYBK,Brooklyn,NY,-73.9497211,40.6526006
+376,"CUNY, Baruch College",NYBR,New York,NY,-74.0060152,40.7127281
+377,"CUNY, Hunter College",NYHN,New York,NY,-74.0060152,40.7127281
+378,"CUNY, John Jay College of Criminal Justice",NYJJ,New York,NY,-74.0060152,40.7127281
+379,"CUNY, Lehman College",NYLH,New York,NY,-74.0060152,40.7127281
+380,"CUNY, The City College of New York",NYNY,New York,NY,-74.0060152,40.7127281
+381,"CUNY, Queens College",NYQN,Queens,NY,-73.8283132,40.7135078
+382,"CUNY, College of Staten Island",NYSI,Staten Island,NY,-74.1496048,40.5834557
+383,New York University,NYU,New York,NY,-74.0060152,40.7127281
+384,Oakland University,OAK,Rochester,MI,-92.4630182,44.0234387
+385,Oberlin College,OBE,Oberlin,OH,-82.2173786,41.2939386
+386,Occidental College,OCC,Los Angeles,CA,-118.242766,34.0536909
+387,Oglethorpe University,OGL,Atlanta,GA,-84.3902644,33.7489924
+388,Ohio University,OHIO,Athens,OH,-82.0610404,39.355589
+389,Ohio Northern University,OHNO,Ada,OH,-83.5051704,38.8398935
+390,Ohio State University,OHST,Columbus,OH,-83.0007065,39.9622601
+391,Ohio Wesleyan University,OHWS,Delaware,OH,-82.9651045,40.2317686
+392,Oklahoma Baptist University,OKBP,Shawnee,OK,-96.9253004,35.3272928
+393,Oklahoma City University,OKCU,Oklahoma City,OK,-97.5170536,35.4729886
+394,"University of Oklahoma, Norman",OKLA,Norman,OK,-97.4394816,35.2225717
+395,Oklahoma State University,OKST,Stillwater,OK,-97.0585717,36.1156306
+396,St. Olaf College,OLAF,Northfield,MN,-93.161159,44.4582041
+397,Old Dominion University,OLD ,Norfolk,VA,-76.2602336,36.8968052
+398,"University of Nebraska, Omaha",OMHA,Omaha,NE,-95.9383758,41.2587459
+399,"SUNY, College at Oneonta",ONTA,Oneonta,NY,-75.0629531,42.453492
+400,Oral Roberts University,ORAL,Tulsa,OK,-95.9224992,36.13334
+401,University of Oregon,ORE,Eugene,OR,-123.0950506,44.0505054
+402,Oregon Institute of Technology,ORIT,Klamath Falls,OR,-121.7816704,42.224867
+403,Oregon State University,ORST,Corvallis,OR,-123.2620435,44.5645659
+404,Otterbein University,OTTE,Westerville,OH,-82.9295287,40.126139
+405,Ouachita Baptist University,OUA,Arkadelphia,AR,-93.053784,34.1209292
+406,College of the Ozarks,OZRK,Point Lookout,MO,-93.2398425,36.6161033
+407,Pace University,PACE,New York,NY,-74.0060152,40.7127281
+408,Pacific University (OR),PACI,Forest Grove,OR,-123.1114405,45.5197452
+409,Pacific Lutheran University,PACL,Tacoma,WA,-122.439874,47.2495798
+410,University of Pennsylvania,PENN,Philadelphia,PA,-75.1635262,39.9527237
+411,Pepperdine University,PEP,Malibu,CA,-118.689423,34.035591
+412,Pitzer College,PIT,Claremont,CA,-117.7197785,34.0966764
+413,University of Pittsburgh,PITT,Pittsburgh,PA,-79.9900861,40.4416941
+414,"California State Polytechnic University, Pomona",PMNA,Pomona,CA,-117.7517496,34.0553813
+415,Point Loma Nazarene University,POIN,San Diego,CA,-117.1627728,32.7174202
+416,Pomona College,POMO,Claremont,CA,-117.7197785,34.0966764
+417,University of Portland,PORT,Portland,OR,-122.674194,45.5202471
+418,Pratt Institute,PRAT,Brooklyn,NY,-73.9497211,40.6526006
+419,Presbyterian College,PRE,Clinton,SC,-81.8806562,34.4726277
+420,Princeton University,PRI,Princeton,NJ,-74.6592958,40.3492744
+421,Providence College,PRO,Providence,RI,-2.6640439,51.4325529
+422,Pennsylvania State University,PSU,State College,PA,-77.8616386,40.7944504
+423,Portland State University,PTST,Portland,OR,-122.674194,45.5202471
+424,University of Puget Sound,PUGS,Tacoma,WA,-122.439874,47.2495798
+425,Purdue University,PURD,West Lafayette,IN,-86.9080655,40.4258686
+426,Queens University of Charlotte,QUEE,Charlotte,NC,-80.8430827,35.2272086
+427,Quinnipiac University,QUIN,Hamden,CT,114.2231071,22.3196602
+428,Ramapo College of New Jersey,RAM,Mahwah,NJ,-74.1437552,41.0887072
+429,Randolph College,RAND,Lynchburg,VA,-79.1422464,37.4137536
+430,University of Redlands,RDLD,Redlands,CA,-117.1827445,34.0550328
+431,Reed College,REE,Portland,OR,-122.674194,45.5202471
+432,Regis University,REGI,Denver,CO,-104.984862,39.7392364
+433,Rensselaer Polytechnic Institute,REN,Troy,NY,-73.6917878,42.7284117
+434,"University of Nevada, Reno",RENO,Reno,NV,-119.8126581,39.5261206
+435,Rhodes College,RHO,Memphis,TN,-89.9668758,35.1335022
+436,University of Rhode Island,RI,Kingston,RI,-6.251189,53.2690331
+437,Rhode Island College,RIC,Providence,RI,-2.6640439,51.4325529
+438,Rice University,RICE,Houston,TX,-95.3676974,29.7589382
+439,University of Richmond,RICH,Richmond,VA,151.5012,-32.8652
+440,Rider University,RID,Lawrenceville,NJ,-74.73737283,40.30098765
+441,Ripon College,RIP,Ripon,WI,-88.8372972,43.8424502
+442,Rhode Island School of Design,RISD,Providence,RI,-2.6640439,51.4325529
+443,Rochester Institute of Technology,RIT,Rochester,NY,-77.615214,43.157285
+444,Randolph-Macon College,RMAC,Ashland,VA,-77.4806603,37.7594012
+445,Roanoke College,ROA,Salem,VA,-80.054667,37.293378
+446,University of Rochester,ROCH,Rochester,NY,-77.615214,43.157285
+447,Rockhurst University,ROCK,Kansas City,MO,-94.5781416,39.100105
+448,Roger Williams University,ROG,Bristol,RI,-71.2844401,41.7034082
+449,Rollins College,ROL,Winter Park,FL,-81.3510264,28.5977707
+450,Rose-Hulman Institute of Technology,ROSE,Terre Haute,IN,-87.4139119,39.4667025
+451,Rowan University,ROWA,Glassboro,NJ,-75.1119434,39.7027677
+452,Russell Sage College,RUSS,Troy,NY,-73.6917878,42.7284117
+453,Rutgers University,RUTG,New Brunswick,NJ,-74.4518173,40.4862174
+454,"California State University, Sacramento",SAC,Sacramento,CA,-121.493895,38.5810606
+455,University of South Alabama,SAL,Mobile,AL,-84.853229,39.092585
+456,Salisbury University,SALI,Salisbury,MD,-75.6009964,38.366027
+457,Samford University,SAMF,Birmingham,AL,-86.765783,33.570499
+458,Sam Houston State University,SAM ,Huntsville,TX,-95.5507771,30.7235263
+459,San Francisco State University,SAN ,San Francisco,CA,-122.419906,37.7790262
+460,University of San Diego,SAND,San Diego,CA,-117.1627728,32.7174202
+461,University of San Francisco,SANF,San Francisco,CA,-122.419906,37.7790262
+462,Saint Anselm College,SANS,Manchester,NH,-71.4547891,42.9956397
+463,Sarah Lawrence College,SAR,Bronxville,NY,-73.8320784,40.9381544
+464,University of South Carolina,SCAR,Columbia,SC,-81.0343313,34.0007493
+465,Saint Cloud State University,SCLD,St. Cloud,MN,-94.1642004,45.5616075
+466,Scripps College,SCR,Claremont,CA,-117.7197785,34.0966764
+467,University of Scranton,SCRN,Scranton,PA,-75.6621294,41.4086874
+468,"University of California, Santa Cruz",SCRZ,Santa Cruz,CA,-121.9905908,37.050096
+469,Santa Clara University,SCU,Santa Clara,CA,-121.6846349,37.2333253
+470,University of South Dakota,SDAK,Vermillion,SD,-96.929101,42.7795273
+471,South Dakota School of Mines and Technology,SDMT,Rapid City,SD,-103.2274481,44.0869329
+472,South Dakota State University,SDST,Brookings,SD,-96.79844,44.311461
+473,San Diego State University,SDSU,San Diego,CA,-117.1627728,32.7174202
+474,Seattle University,SEA,Seattle,WA,-122.330062,47.6038321
+475,Seattle Pacific University,SEAP,Seattle,WA,-122.330062,47.6038321
+476,Southeastern Louisiana University,SELA,Hammond,LA,-71.3835846,42.4853627
+477,Seton Hall University,SET,South Orange,NJ,-74.2635376,40.7474966
+478,"Sewanee, University of the South",SEWA,Sewanee,TN,-85.91952369,35.200644
+479,St. Francis College,SFCS,Brooklyn,NY,-73.9497211,40.6526006
+480,Sacred Heart University,SHT,Fairfield,CT,-73.552139,41.051162
+481,Southern Illinois University Carbondale,SIL,Carbondale,IL,-89.216655,37.7274692
+482,Simpson College (IA),SIMP,Indianola,IA,-93.5613292,41.3604966
+483,Southern Illinois University Edwardsville,SIUE,Edwardsville,IL,-89.953157,38.8114364
+484,Saint John Fisher College,SJFS,Rochester,NY,-77.615214,43.157285
+485,San Jose State University,SJST,San Jose,CA,-121.890591,37.3361663
+486,Skidmore College,SKI,Saratoga Springs,NY,-73.7853915,43.0821793
+487,Salem College,SLMC,Winston-Salem,NC,-80.2440518,36.0998131
+488,Saint Louis University,SLU,St. Louis,MO,-90.2428756,38.6319657
+489,Saint Mary's College of California,SMCA,Moraga,CA,-122.12883,37.834897
+490,Saint Mary's College (IN),SMCI,Notre Dame,IN,-86.23822026,41.70456775
+491,Smith College,SMI,Northampton,MA,-72.6311006,42.3178989
+492,Saint Mary's University of Minnesota,SMMN,Winona,MN,-91.7807784,43.9582272
+493,Simmons College,SMNS,Boston,MA,-71.060511,42.3554334
+494,Southern Methodist University,SMU,Dallas,TX,-96.7968559,32.7762719
+495,Siena College,SNA,Loudonville,NY,-73.7548424,42.7048009
+496,University of South Florida,SOFL,Tampa,FL,-82.458444,27.9477595
+497,University of Southern Mississippi,SOMS,Hattiesburg,MS,-89.2903392,31.3271189
+498,Sonoma State University,SONO,Rohnert Park,CA,-122.7010984,38.3396367
+499,Spelman College,SPE,Atlanta,GA,-84.3902644,33.7489924
+500,Spring Hill College,SPRI,Mobile,AL,-84.853229,39.092585
+501,Stanford University,STAN,Stanford,CA,-122.1702926,37.4265407
+502,St. Catherine University,STCT,St. Paul,MN,-93.0931028,44.9497487
+503,St. Edward's University,STED,Austin,TX,-97.7436995,30.2711286
+504,Stetson University,STET,DeLand,FL,-81.3031098,29.0283213
+505,Franciscan University of Steubenville,STEU,Steubenville,OH,-80.6339638,40.3697905
+506,Stonehill College,STHL,Easton,MA,-76.0763065,38.7744952
+507,Saint Joseph's University (PA),STJ,Philadelphia,PA,-75.1635262,39.9527237
+508,"St. John's College, Annapolis",STJA,Annapolis,MD,-76.492786,38.9786401
+509,Saint John's University (MN),STJM,Collegeville,MN,-94.3622868,45.5944117
+510,St. John's University (NY),STJN,Queens,NY,-73.8283132,40.7135078
+511,"St. John's College, Santa Fe",STJS,Santa Fe,NM,-105.9384569,35.6876096
+512,St. Joseph's College (NY),STJY,Brooklyn,NY,-73.9497211,40.6526006
+513,St. Lawrence University,STLW,Canton,NY,-75.1690942,44.5956163
+514,St. Mary's College of Maryland,STMD,St. Mary's City,MD,-76.43012002,38.18649205
+515,Saint Michael's College,STMI,Colchester,VT,-73.15461,44.5470092
+516,University of Saint Thomas (MN),STMN,St. Paul,MN,-93.0931028,44.9497487
+517,St. Mary's University (TX),STMT,San Antonio,TX,-98.4951405,29.4246002
+518,"SUNY, Stony Brook (Stony Brook University)",STNY,Stony Brook,NY,-73.140943,40.9256538
+519,Stockton University,STOC,Galloway,NJ,-74.5358497,39.45039355
+520,"California State University, Stanislaus",STSL,Turlock,CA,-120.8465941,37.4946568
+521,University of St. Thomas (TX),STTX,Houston,TX,-95.3676974,29.7589382
+522,Susquehanna University,SUS,Selinsgrove,PA,-76.8607084,40.8062437
+523,Saint Vincent College,SVCS,Latrobe,PA,-79.3840301,40.317287
+524,Stevens Institute of Technology,SVIT,Hoboken,NJ,-74.0323752,40.7433066
+525,Swarthmore College,SWAR,Swarthmore,PA,-75.3499124,39.9020565
+526,Sweet Briar College,SWE,Sweet Briar,VA,-79.06262468,38.13528925
+527,Southwestern University,SWU,Georgetown,TX,-97.6772311,30.6326942
+528,Syracuse University,SYR,Syracuse,NY,-76.1474244,43.0481221
+529,Texas A&M,TAM,College Station,TX,-96.3071042,30.5955289
+530,Taylor University,TAY,Upland,IN,-85.4944168,40.4755974
+531,Texas Christian University,TCU,Fort Worth,TX,-97.3327459,32.753177
+532,Temple University,TEMP,Philadelphia,PA,-75.1635262,39.9527237
+533,Tennessee Technological University,TENN,Cookeville,TN,-85.4997057,36.1623886
+534,"University of Texas, Austin",TEX,Austin,TX,-97.7436995,30.2711286
+535,"University of Texas, Dallas",TEXD,Richardson,TX,-96.7297206,32.9481789
+536,The Citadel,THE,Charleston,SC,-79.9402728,32.7876012
+537,University of Tulsa,TLSA,Tulsa,OK,-95.9224992,36.13334
+538,University of Tampa,TMPA,Tampa,FL,-82.458444,27.9477595
+539,University of Toledo,TOL,Toledo,OH,-83.5378173,41.6529143
+540,Touro College,TOUR,New York,NY,-74.0060152,40.7127281
+541,Towson University,TOWS,Towson,MD,-76.61481482,39.39645905
+542,Transylvania University,TRA,Lexington,KY,-84.4970393,38.0464066
+543,Trinity College (CT),TRNT,Hartford,CT,-72.0243982,41.3403944
+544,Trinity University (TX),TRTX,San Antonio,TX,-98.4951405,29.4246002
+545,Truman State University,TRUM,Kirksville,MO,-92.5833939,40.1948848
+546,Tufts University,TUFT,Medford,MA,-71.1061639,42.4184296
+547,Tulane University,TUL,New Orleans,LA,-90.0782127,29.9759983
+548,Texas State University,TXST,San Marcos,TX,-97.9405828,29.8826436
+549,Texas Tech University,TXTC,Lubbock,TX,-101.879336,33.5635206
+550,Texas Woman's University,TXWO,Denton,TX,-97.1413417,33.1838787
+551,"University of Alabama, Birmingham",UAB,Birmingham,AL,-86.765783,33.570499
+552,"University of California, Davis",UCDV,Davis,CA,-121.744583,38.545379
+553,University of Central Florida,UCF,Orlando,FL,-81.3790304,28.5421109
+554,University of Chicago,UCHI,Chicago,IL,-87.6244212,41.8755616
+555,"University of California, Irvine",UCIV,Irvine,CA,-117.8259819,33.6856969
+556,"University of California, Los Angeles",UCLA,Los Angeles,CA,-118.242766,34.0536909
+557,"University of California, Riverside",UCRS,Riverside,CA,-117.3961623,33.9533546
+558,"University of California, Santa Barbara",UCSB,Santa Barbara,CA,-119.7026673,34.4221319
+559,"University of California, San Diego",UCSD,San Diego,CA,-117.1627728,32.7174202
+560,University of Georgia,UGA,Athens,GA,-83.376398,33.9597677
+561,"University of Illinois, Chicago",UIC,Chicago,IL,-87.6244212,41.8755616
+562,"University of Illinois, Urbana-Champaign",UIUC,Champaign,IL,-88.2430932,40.1164841
+563,University of Kentucky,UK,Lexington,KY,-84.4970393,38.0464066
+564,"University of Maryland, Baltimore County",UMBC,Baltimore,MD,-76.610759,39.2908816
+565,"University of North Carolina, Chapel Hill",UNC,Chapel Hill,NC,-79.05578,35.9131542
+566,"University of North Carolina, Asheville",UNCA,Asheville,NC,-82.5540161,35.6009498
+567,"University of North Carolina, Greensboro",UNCG,Greensboro,NC,-79.7919754,36.0726355
+568,Union College (NY),UNCL,Schenectady,NY,-73.9395687,42.8142432
+569,"University of North Carolina, Wilmington",UNCW,Wilmington,NC,-77.9447107,34.2257282
+570,University of North Florida,UNF,Jacksonville,FL,-81.655651,30.3321838
+571,University of North Georgia,UNG,Dahlonega,GA,-83.9845723,34.5328484
+572,University of Northern Iowa,UNI,Cedar Falls,IA,-92.447758,42.5361805
+573,College of New Jersey,UNJ,Ewing,NJ,-74.8006895,40.2688105
+574,"University of Nevada, Las Vegas",UNLV,Las Vegas,NV,-115.148516,36.1672559
+575,University of New Mexico,UNM,Albuquerque,NM,-106.650985,35.0841034
+576,Union University (TN),UNON,Jackson,TN,-88.8177418,35.6144446
+577,University of the Pacific (CA),UPAC,Stockton,CA,-121.2907796,37.9577016
+578,Ursinus College,URSN,Collegeville,PA,-75.451571,40.1856597
+579,University of Southern California,USC,Los Angeles,CA,-118.242766,34.0536909
+580,"University of Texas, Arlington",UTA,Arlington,TX,-97.1071186,32.7355816
+581,University of Utah,UTAH,Salt Lake City,UT,-111.8867975,40.7596198
+582,"University of Texas, El Paso",UTEP,El Paso,TX,-106.441207,31.7865623
+583,"University of Tennessee, Knoxville",UTK,Knoxville,TN,-83.9210261,35.9603948
+584,"University of Texas, Rio Grande Valley",UTRGV,Edinburg,TX,-98.1624501,26.3013982
+585,University of Texas at San Antonio,UTSA,San Antonio,TX,-98.4951405,29.4246002
+586,Utah State University,UTST,Logan,UT,-111.834863,41.7313447
+587,University of Virginia,UVA,Charlottesville,VA,-78.4766781,38.029306
+588,"University of Wisconsin, Eau Claire",UWEU,Eau Claire,WI,-91.4984941,44.811349
+589,"University of Wisconsin, La Crosse",UWLC,La Crosse,WI,-91.2514355,43.8122836
+590,Valparaiso University,VALP,Valparaiso,IN,-87.0611412,41.4730948
+591,Vanderbilt University,VAN,Nashville,TN,-86.7742984,36.1622767
+592,Vanguard University,VANG,Costa Mesa,CA,-117.903317,33.6633386
+593,Vassar College,VAS,Poughkeepsie,NY,-73.9283672,41.7065539
+594,Virginia Commonwealth University,VCU,Richmond,VA,151.5012,-32.8652
+595,Villanova University,VIL,Villanova,PA,8.668422,41.9591678
+596,Virginia Military Institute,VIRG,Lexington,VA,-79.4428157,37.7840208
+597,University of Vermont,VMT,Burlington,VT,-73.212906,44.4761601
+598,Virginia Tech,VT,Blacksburg,VA,-80.4136767,37.2296566
+599,Wabash College,WAB,Crawfordsville,IN,-86.8990249,40.0401991
+600,Wagner College,WAG,Staten Island,NY,-74.1496048,40.5834557
+601,Wake Forest University,WAK,Winston-Salem,NC,-80.2440518,36.0998131
+602,College of William & Mary,WAM,Williamsburg,VA,-76.7074042,37.2708788
+603,Warren Wilson College,WAR,Asheville,NC,-82.5540161,35.6009498
+604,"University of Washington, Seattle",WASH,Seattle,WA,-122.330062,47.6038321
+605,Washington State University,WAST,Pullman,WA,-117.173895,46.7304268
+606,Wayne State University,WAYN,Detroit,MI,-83.0466403,42.3315509
+607,Webster University,WBST,St. Louis,MO,-90.2428756,38.6319657
+608,University of Washington Bothell,WBTL,Bothell,WA,-122.2068288,47.7598697
+609,West Chester University of Pennsylvania,WCHS,West Chester,PA,-75.6059638,39.9597213
+610,Western Colorado University,WCOL,Gunnison,CO,-107.0603126,38.6476702
+611,Wheaton College (MA),WEAM,Norton,MA,-99.9100033,39.7944702
+612,Weber State University,WEBE,Ogden,UT,-111.9738429,41.2230048
+613,Wellesley College,WEL,Wellesley,MA,-71.2925571,42.2964859
+614,Wentworth Institute of Technology,WEN,Boston,MA,-71.060511,42.3554334
+615,Wesleyan University,WESL,Middletown,CT,-72.7433108,41.6146381
+616,University of West Florida,WFL,Pensacola,FL,-87.2169149,30.421309
+617,Wheaton College (IL),WHEA,Wheaton,IL,-88.1101709,41.8646959
+618,Whitman College,WHI,Walla Walla,WA,-118.5174284,46.2055155
+619,Whitworth University,WHIT,Spokane,WA,-117.42351,47.6571934
+620,Wichita State University,WICH,Wichita,KS,-97.3375448,37.6922361
+621,Western Illinois University,WIL,Macomb,IL,-90.6713939,40.4588934
+622,Wisconsin Lutheran College,WIS,Milwaukee,WI,-87.922497,43.0349931
+623,"University of Wisconsin, Madison",WISC,Madison,WI,-89.3837613,43.074761
+624,Wittenberg University,WIT,Springfield,OH,-83.810138,39.9234046
+625,William Jewell College,WJWL,Liberty,MO,-94.419079,39.246479
+626,Western Kentucky University,WKU,Bowling Green,KY,-86.4436018,36.9903199
+627,Washington and Lee University,WLEE,Lexington,VA,-79.4428157,37.7840208
+628,Wells College,WLLS,Aurora,NY,-78.6315537,42.7324505
+629,Williams College,WLMS,Williamstown,MA,-73.2246057,42.6889156
+630,Willamette University,WLMT,Salem,OR,-123.033121,44.9391565
+631,Westminster College (MO),WMNM,Fulton,MO,-91.9479586,38.8467082
+632,Westminster College (PA),WMNP,New Wilmington,PA,-80.3328428,41.1222812
+633,Westminster College (UT),WMNT,Salt Lake City,UT,-111.8867975,40.7596198
+634,Western Michigan University,WMU,Kalamazoo,MI,-85.5872286,42.291707
+635,Wofford College,WOF,Spartanburg,SC,-81.9320157,34.9498007
+636,College of Wooster,WOOS,Wooster,OH,-81.9397733,40.7980976
+637,Worcester Polytechnic Institute,WOR,Worcester,MA,-71.8018877,42.2625621
+638,Wright State University,WRIG,Dayton,OH,-84.1916069,39.7589478
+639,Washington College,WSCL,Chestertown,MD,-76.0666126,39.2089986
+640,Washington University in St. Louis,WSHU,St. Louis,MO,-90.2428756,38.6319657
+641,Washington & Jefferson College,WSJF,Washington,PA,-80.2541251,40.1943798
+642,Westmont College,WSMT,Santa Barbara,CA,-119.7026673,34.4221319
+643,Whittier College,WTTR,Whittier,CA,-118.030839,33.9708782
+644,West Virginia University,WVU,Morgantown,WV,-79.9559437,39.6296809
+645,Western Washington University,WWAS,Bellingham,WA,-122.478836,48.7544012
+646,University of Wyoming,WY,Laramie,WY,-117.070831,32.805984
+647,Xavier University,XAV,Cincinnati,OH,-84.5124602,39.1014537
+648,Yale University,YAL,New Haven,CT,114.1923819,22.2667238
+649,Yeshiva University,YESH,New York,NY,-74.0060152,40.7127281
